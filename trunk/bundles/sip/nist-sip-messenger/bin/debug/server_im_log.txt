@@ -1,0 +1,7149 @@
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= gov.nist.sip.instantmessaging.presence.IMRouter
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101893844331" 
+isSender="true" 
+transactionId="z9hg4bk78da3dd1cd03488813b7711a136e92ba" 
+callId="nist-sip-im-register-callId1" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=4058
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK78da3dd1cd03488813b7711a136e92ba
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101893844831" 
+isSender="true" 
+transactionId="z9hg4bk78da3dd1cd03488813b7711a136e92ba" 
+callId="nist-sip-im-register-callId1" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=4058
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK78da3dd1cd03488813b7711a136e92ba
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:4000" 
+to="127.0.0.1:5070" 
+time="1101893845505" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bk78da3dd1cd03488813b7711a136e92ba" 
+firstLine="SIP/2.0 500 Server Internal Error" 
+callId="nist-sip-im-register-callId1" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 500 Server Internal Error
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=4058
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK78da3dd1cd03488813b7711a136e92ba
+Max-Forwards: 10
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:4000" 
+to="127.0.0.1:5070" 
+time="1101893845541" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bk78da3dd1cd03488813b7711a136e92ba" 
+firstLine="SIP/2.0 500 Server Internal Error" 
+callId="nist-sip-im-register-callId1" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 500 Server Internal Error
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=4058
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK78da3dd1cd03488813b7711a136e92ba
+Max-Forwards: 10
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101893852564" 
+isSender="true" 
+transactionId="z9hg4bk2220a9081e94531d0ef85403b5a26f2a" 
+callId="nist-sip-im-register-callId2" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=6779
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK2220a9081e94531d0ef85403b5a26f2a
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:4000" 
+to="127.0.0.1:5070" 
+time="1101893852641" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bk2220a9081e94531d0ef85403b5a26f2a" 
+firstLine="SIP/2.0 500 Server Internal Error" 
+callId="nist-sip-im-register-callId2" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 500 Server Internal Error
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=6779
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK2220a9081e94531d0ef85403b5a26f2a
+Max-Forwards: 10
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101893857385" 
+isSender="true" 
+transactionId="z9hg4bkdf5975a4976f7578b65a8bc43b2f6daa" 
+callId="nist-sip-im-register-callId3" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=3437
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKdf5975a4976f7578b65a8bc43b2f6daa
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:4000" 
+to="127.0.0.1:5070" 
+time="1101893857551" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bkdf5975a4976f7578b65a8bc43b2f6daa" 
+firstLine="SIP/2.0 500 Server Internal Error" 
+callId="nist-sip-im-register-callId3" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 500 Server Internal Error
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=3437
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKdf5975a4976f7578b65a8bc43b2f6daa
+Max-Forwards: 10
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101893857869" 
+isSender="true" 
+transactionId="z9hg4bk0b7373c3fbd6876bd28eca71a8913b44" 
+callId="nist-sip-im-register-callId4" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId4
+CSeq: 4 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=4940
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK0b7373c3fbd6876bd28eca71a8913b44
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:4000" 
+to="127.0.0.1:5070" 
+time="1101893857921" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bk0b7373c3fbd6876bd28eca71a8913b44" 
+firstLine="SIP/2.0 500 Server Internal Error" 
+callId="nist-sip-im-register-callId4" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 500 Server Internal Error
+Call-ID: nist-sip-im-register-callId4
+CSeq: 4 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=4940
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK0b7373c3fbd6876bd28eca71a8913b44
+Max-Forwards: 10
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101893862146" 
+isSender="true" 
+transactionId="z9hg4bk47783853c6de6e28983126f1e6549eeb" 
+callId="nist-sip-im-register-callId5" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId5
+CSeq: 5 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=4955
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK47783853c6de6e28983126f1e6549eeb
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:4000" 
+to="127.0.0.1:5070" 
+time="1101893862194" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bk47783853c6de6e28983126f1e6549eeb" 
+firstLine="SIP/2.0 500 Server Internal Error" 
+callId="nist-sip-im-register-callId5" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 500 Server Internal Error
+Call-ID: nist-sip-im-register-callId5
+CSeq: 5 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=4955
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK47783853c6de6e28983126f1e6549eeb
+Max-Forwards: 10
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101893862623" 
+isSender="true" 
+transactionId="z9hg4bk2ecf2d3cc8114262aff4055555ced5de" 
+callId="nist-sip-im-register-callId6" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId6
+CSeq: 6 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=1006
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK2ecf2d3cc8114262aff4055555ced5de
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:4000" 
+to="127.0.0.1:5070" 
+time="1101893862699" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bk2ecf2d3cc8114262aff4055555ced5de" 
+firstLine="SIP/2.0 500 Server Internal Error" 
+callId="nist-sip-im-register-callId6" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 500 Server Internal Error
+Call-ID: nist-sip-im-register-callId6
+CSeq: 6 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=1006
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK2ecf2d3cc8114262aff4055555ced5de
+Max-Forwards: 10
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101893863252" 
+isSender="true" 
+transactionId="z9hg4bk8fd133dabd58b4f67476c6f789978593" 
+callId="nist-sip-im-register-callId7" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId7
+CSeq: 7 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=5887
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK8fd133dabd58b4f67476c6f789978593
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:4000" 
+to="127.0.0.1:5070" 
+time="1101893863342" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bk8fd133dabd58b4f67476c6f789978593" 
+firstLine="SIP/2.0 500 Server Internal Error" 
+callId="nist-sip-im-register-callId7" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 500 Server Internal Error
+Call-ID: nist-sip-im-register-callId7
+CSeq: 7 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=5887
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK8fd133dabd58b4f67476c6f789978593
+Max-Forwards: 10
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101893880030" 
+isSender="true" 
+transactionId="z9hg4bk56076713d602facccb77d07265640182" 
+callId="nist-sip-im-register-callId8" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId8
+CSeq: 8 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=7499
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK56076713d602facccb77d07265640182
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:4000" 
+to="127.0.0.1:5070" 
+time="1101893880081" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bk56076713d602facccb77d07265640182" 
+firstLine="SIP/2.0 500 Server Internal Error" 
+callId="nist-sip-im-register-callId8" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 500 Server Internal Error
+Call-ID: nist-sip-im-register-callId8
+CSeq: 8 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=7499
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK56076713d602facccb77d07265640182
+Max-Forwards: 10
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101893908034" 
+isSender="true" 
+transactionId="z9hg4bkc1d312b234aa1b4acdb4656b21f786c3" 
+callId="nist-sip-im-register-callId9" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId9
+CSeq: 9 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=7682
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKc1d312b234aa1b4acdb4656b21f786c3
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:4000" 
+to="127.0.0.1:5070" 
+time="1101893908120" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bkc1d312b234aa1b4acdb4656b21f786c3" 
+firstLine="SIP/2.0 500 Server Internal Error" 
+callId="nist-sip-im-register-callId9" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 500 Server Internal Error
+Call-ID: nist-sip-im-register-callId9
+CSeq: 9 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=7682
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKc1d312b234aa1b4acdb4656b21f786c3
+Max-Forwards: 10
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= gov.nist.sip.instantmessaging.presence.IMRouter
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101893935340" 
+isSender="true" 
+transactionId="z9hg4bkd101498e061137af9ece55b751111ed5" 
+callId="nist-sip-im-register-callId1" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=4488
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKd101498e061137af9ece55b751111ed5
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101893935840" 
+isSender="true" 
+transactionId="z9hg4bkd101498e061137af9ece55b751111ed5" 
+callId="nist-sip-im-register-callId1" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=4488
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKd101498e061137af9ece55b751111ed5
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:4000" 
+to="127.0.0.1:5070" 
+time="1101893936204" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bkd101498e061137af9ece55b751111ed5" 
+firstLine="SIP/2.0 500 Server Internal Error" 
+callId="nist-sip-im-register-callId1" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 500 Server Internal Error
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=4488
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKd101498e061137af9ece55b751111ed5
+Max-Forwards: 10
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:4000" 
+to="127.0.0.1:5070" 
+time="1101893936290" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bkd101498e061137af9ece55b751111ed5" 
+firstLine="SIP/2.0 500 Server Internal Error" 
+callId="nist-sip-im-register-callId1" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 500 Server Internal Error
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=4488
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKd101498e061137af9ece55b751111ed5
+Max-Forwards: 10
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101893984361" 
+isSender="true" 
+transactionId="z9hg4bk7ed76fec418d36b147df1bb34df1f531" 
+callId="nist-sip-im-register-callId2" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei@ethz.ch>;tag=9807
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK7ed76fec418d36b147df1bb34df1f531
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:4000" 
+to="127.0.0.1:5070" 
+time="1101893984510" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bk7ed76fec418d36b147df1bb34df1f531" 
+firstLine="SIP/2.0 200 OK" 
+callId="nist-sip-im-register-callId2" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei@ethz.ch>;tag=9807
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK7ed76fec418d36b147df1bb34df1f531
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>;expires=3600
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101893984595" 
+isSender="true" 
+transactionId="z9hg4bkc0a7bfed10fa671daf0117fec375d9ea" 
+callId="nist-sip-im-subscribe-callId1" 
+firstLine="SUBSCRIBE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[SUBSCRIBE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-subscribe-callId1
+CSeq: 1 SUBSCRIBE
+From: <sip:frei@ethz.ch>;tag=139
+To: <sip:mranga@nist.gov>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKc0a7bfed10fa671daf0117fec375d9ea
+Max-Forwards: 70
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Expires: 3600
+Event:  presence
+Accept: application/pidf+xml
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101893984609" 
+isSender="true" 
+transactionId="z9hg4bk1068329dbe9c111afe4d82acce3cb203" 
+callId="0frei@ethz.ch" 
+firstLine="PUBLISH sip:frei@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei@ethz.ch>;tag=9820
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK1068329dbe9c111afe4d82acce3cb203
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 226
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:4000" 
+to="127.0.0.1:5070" 
+time="1101893984806" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bkc0a7bfed10fa671daf0117fec375d9ea" 
+firstLine="SIP/2.0 480 Temporarily Unavailable" 
+callId="nist-sip-im-subscribe-callId1" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 480 Temporarily Unavailable
+Call-ID: nist-sip-im-subscribe-callId1
+CSeq: 1 SUBSCRIBE
+From: <sip:frei@ethz.ch>;tag=139
+To: <sip:mranga@nist.gov>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKc0a7bfed10fa671daf0117fec375d9ea
+Max-Forwards: 70
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101893985110" 
+isSender="true" 
+transactionId="z9hg4bk1068329dbe9c111afe4d82acce3cb203" 
+callId="0frei@ethz.ch" 
+firstLine="PUBLISH sip:frei@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei@ethz.ch>;tag=9820
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK1068329dbe9c111afe4d82acce3cb203
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 226
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101893986111" 
+isSender="true" 
+transactionId="z9hg4bk1068329dbe9c111afe4d82acce3cb203" 
+callId="0frei@ethz.ch" 
+firstLine="PUBLISH sip:frei@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei@ethz.ch>;tag=9820
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK1068329dbe9c111afe4d82acce3cb203
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 226
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101893988117" 
+isSender="true" 
+transactionId="z9hg4bk1068329dbe9c111afe4d82acce3cb203" 
+callId="0frei@ethz.ch" 
+firstLine="PUBLISH sip:frei@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei@ethz.ch>;tag=9820
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK1068329dbe9c111afe4d82acce3cb203
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 226
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101893992128" 
+isSender="true" 
+transactionId="z9hg4bk1068329dbe9c111afe4d82acce3cb203" 
+callId="0frei@ethz.ch" 
+firstLine="PUBLISH sip:frei@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei@ethz.ch>;tag=9820
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK1068329dbe9c111afe4d82acce3cb203
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 226
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101893996149" 
+isSender="true" 
+transactionId="z9hg4bk1068329dbe9c111afe4d82acce3cb203" 
+callId="0frei@ethz.ch" 
+firstLine="PUBLISH sip:frei@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei@ethz.ch>;tag=9820
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK1068329dbe9c111afe4d82acce3cb203
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 226
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101894000164" 
+isSender="true" 
+transactionId="z9hg4bk1068329dbe9c111afe4d82acce3cb203" 
+callId="0frei@ethz.ch" 
+firstLine="PUBLISH sip:frei@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei@ethz.ch>;tag=9820
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK1068329dbe9c111afe4d82acce3cb203
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 226
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101894004182" 
+isSender="true" 
+transactionId="z9hg4bk1068329dbe9c111afe4d82acce3cb203" 
+callId="0frei@ethz.ch" 
+firstLine="PUBLISH sip:frei@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei@ethz.ch>;tag=9820
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK1068329dbe9c111afe4d82acce3cb203
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 226
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101894008206" 
+isSender="true" 
+transactionId="z9hg4bk1068329dbe9c111afe4d82acce3cb203" 
+callId="0frei@ethz.ch" 
+firstLine="PUBLISH sip:frei@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei@ethz.ch>;tag=9820
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK1068329dbe9c111afe4d82acce3cb203
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 226
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101894012222" 
+isSender="true" 
+transactionId="z9hg4bk1068329dbe9c111afe4d82acce3cb203" 
+callId="0frei@ethz.ch" 
+firstLine="PUBLISH sip:frei@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei@ethz.ch>;tag=9820
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK1068329dbe9c111afe4d82acce3cb203
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 226
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101894016237" 
+isSender="true" 
+transactionId="z9hg4bk1068329dbe9c111afe4d82acce3cb203" 
+callId="0frei@ethz.ch" 
+firstLine="PUBLISH sip:frei@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei@ethz.ch>;tag=9820
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK1068329dbe9c111afe4d82acce3cb203
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 226
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:4000" 
+to="127.0.0.1:5070" 
+time="1101894638141" 
+isSender="false" 
+transactionId="z9hg4bka184419c06696abf7c25e0b066a87172" 
+callId="nist-sip-im-message-callId1" 
+firstLine="MESSAGE sip:127.0.0.1:5070 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:5070 SIP/2.0
+Call-ID: nist-sip-im-message-callId1
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=9271
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:4000;branch=z9hG4bKa184419c06696abf7c25e0b066a87172,SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bKb6e55005ca4fa916454d7a87ba8e5bfd
+Max-Forwards: 69
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Type: text/plain;charset=UTF-8
+Record-Route: <sip:127.0.0.1:4000>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101894638395" 
+isSender="true" 
+transactionId="z9hg4bka184419c06696abf7c25e0b066a87172" 
+callId="nist-sip-im-message-callId1" 
+firstLine="SIP/2.0 200 OK" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: nist-sip-im-message-callId1
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=9271
+To: <sip:frei@ethz.ch>;tag=4197
+Via: SIP/2.0/UDP 127.0.0.1:4000;branch=z9hG4bKa184419c06696abf7c25e0b066a87172,SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bKb6e55005ca4fa916454d7a87ba8e5bfd
+Max-Forwards: 69
+Record-Route: <sip:127.0.0.1:4000>
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:4000" 
+to="127.0.0.1:5070" 
+time="1101894638599" 
+isSender="false" 
+transactionId="z9hg4bk9a235eeb524e08ab5eb5f7f90729f04f" 
+callId="nist-sip-im-message-callId1" 
+firstLine="MESSAGE sip:127.0.0.1:5070 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:5070 SIP/2.0
+Call-ID: nist-sip-im-message-callId1
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=9271
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:4000;branch=z9hG4bK9a235eeb524e08ab5eb5f7f90729f04f,SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bKb6e55005ca4fa916454d7a87ba8e5bfd
+Max-Forwards: 69
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Type: text/plain;charset=UTF-8
+Record-Route: <sip:127.0.0.1:4000>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101894638634" 
+isSender="true" 
+transactionId="z9hg4bk9a235eeb524e08ab5eb5f7f90729f04f" 
+callId="nist-sip-im-message-callId1" 
+firstLine="SIP/2.0 200 OK" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: nist-sip-im-message-callId1
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=9271
+To: <sip:frei@ethz.ch>;tag=4945
+Via: SIP/2.0/UDP 127.0.0.1:4000;branch=z9hG4bK9a235eeb524e08ab5eb5f7f90729f04f,SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bKb6e55005ca4fa916454d7a87ba8e5bfd
+Max-Forwards: 69
+Record-Route: <sip:127.0.0.1:4000>
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101906729680" 
+isSender="true" 
+transactionId="z9hg4bkffa8ff8a2e65ce6447a5fcca722561e3" 
+callId="0frei@ethz.ch" 
+firstLine="PUBLISH sip:frei@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei@ethz.ch>;tag=6581
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKffa8ff8a2e65ce6447a5fcca722561e3
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 229
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101906729686" 
+isSender="true" 
+transactionId="z9hg4bk70a9fc25cdaac289723aaa48e5dc32f7" 
+callId="nist-sip-im-register-callId3" 
+firstLine="REGISTER sip:127.0.0.1:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:127.0.0.1:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei@ethz.ch>;tag=8151
+To: <sip:frei@ethz.ch>;tag=7426
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK70a9fc25cdaac289723aaa48e5dc32f7
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Expires: 0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:4000" 
+to="127.0.0.1:5070" 
+time="1101906729732" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bk70a9fc25cdaac289723aaa48e5dc32f7" 
+firstLine="SIP/2.0 200 OK" 
+callId="nist-sip-im-register-callId3" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei@ethz.ch>;tag=8151
+To: <sip:frei@ethz.ch>;tag=7426
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK70a9fc25cdaac289723aaa48e5dc32f7
+Max-Forwards: 10
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:4000" 
+to="127.0.0.1:5070" 
+time="1101906729742" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bkffa8ff8a2e65ce6447a5fcca722561e3" 
+firstLine="SIP/2.0 480 Temporarily Unavailable" 
+callId="0frei@ethz.ch" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 480 Temporarily Unavailable
+Call-ID: 0frei@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei@ethz.ch>;tag=6581
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKffa8ff8a2e65ce6447a5fcca722561e3
+Max-Forwards: 70
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101906733537" 
+isSender="true" 
+transactionId="z9hg4bk48d0fa7b335f4b2ccea705e47d191a4f" 
+callId="0frei@ethz.ch" 
+firstLine="PUBLISH sip:frei@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei@ethz.ch>;tag=8481
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK48d0fa7b335f4b2ccea705e47d191a4f
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 229
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101906733548" 
+isSender="true" 
+transactionId="z9hg4bk16f724187cf33332b7b09e4f38aefa52" 
+callId="nist-sip-im-register-callId4" 
+firstLine="REGISTER sip:127.0.0.1:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:127.0.0.1:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId4
+CSeq: 4 REGISTER
+From: <sip:frei@ethz.ch>;tag=5663
+To: <sip:frei@ethz.ch>;tag=3856
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK16f724187cf33332b7b09e4f38aefa52
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Expires: 0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:4000" 
+to="127.0.0.1:5070" 
+time="1101906733590" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bk16f724187cf33332b7b09e4f38aefa52" 
+firstLine="SIP/2.0 200 OK" 
+callId="nist-sip-im-register-callId4" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: nist-sip-im-register-callId4
+CSeq: 4 REGISTER
+From: <sip:frei@ethz.ch>;tag=5663
+To: <sip:frei@ethz.ch>;tag=3856
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK16f724187cf33332b7b09e4f38aefa52
+Max-Forwards: 10
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:4000" 
+to="127.0.0.1:5070" 
+time="1101906733599" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bk48d0fa7b335f4b2ccea705e47d191a4f" 
+firstLine="SIP/2.0 480 Temporarily Unavailable" 
+callId="0frei@ethz.ch" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 480 Temporarily Unavailable
+Call-ID: 0frei@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei@ethz.ch>;tag=8481
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK48d0fa7b335f4b2ccea705e47d191a4f
+Max-Forwards: 70
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= gov.nist.sip.instantmessaging.presence.IMRouter
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907581089" 
+isSender="true" 
+transactionId="z9hg4bk8cce646353e9058de3cfe5bfc379b6a7" 
+callId="nist-sip-im-register-callId1" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei@ethz.ch>;tag=2687
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK8cce646353e9058de3cfe5bfc379b6a7
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907581589" 
+isSender="true" 
+transactionId="z9hg4bk8cce646353e9058de3cfe5bfc379b6a7" 
+callId="nist-sip-im-register-callId1" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei@ethz.ch>;tag=2687
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK8cce646353e9058de3cfe5bfc379b6a7
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907582592" 
+isSender="true" 
+transactionId="z9hg4bk8cce646353e9058de3cfe5bfc379b6a7" 
+callId="nist-sip-im-register-callId1" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei@ethz.ch>;tag=2687
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK8cce646353e9058de3cfe5bfc379b6a7
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907583146" 
+isSender="true" 
+transactionId="z9hg4bkefa9eea66773b06f911f7b1a36ac05a8" 
+callId="nist-sip-im-register-callId2" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei@ethz.ch>;tag=9875
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKefa9eea66773b06f911f7b1a36ac05a8
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907583647" 
+isSender="true" 
+transactionId="z9hg4bkefa9eea66773b06f911f7b1a36ac05a8" 
+callId="nist-sip-im-register-callId2" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei@ethz.ch>;tag=9875
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKefa9eea66773b06f911f7b1a36ac05a8
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907583712" 
+isSender="true" 
+transactionId="z9hg4bk0d8fcc5f5d6520037ed1a3b73d2ec7c4" 
+callId="nist-sip-im-register-callId3" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei@ethz.ch>;tag=2349
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK0d8fcc5f5d6520037ed1a3b73d2ec7c4
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907584213" 
+isSender="true" 
+transactionId="z9hg4bk0d8fcc5f5d6520037ed1a3b73d2ec7c4" 
+callId="nist-sip-im-register-callId3" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei@ethz.ch>;tag=2349
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK0d8fcc5f5d6520037ed1a3b73d2ec7c4
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907584597" 
+isSender="true" 
+transactionId="z9hg4bk8cce646353e9058de3cfe5bfc379b6a7" 
+callId="nist-sip-im-register-callId1" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei@ethz.ch>;tag=2687
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK8cce646353e9058de3cfe5bfc379b6a7
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907584649" 
+isSender="true" 
+transactionId="z9hg4bkefa9eea66773b06f911f7b1a36ac05a8" 
+callId="nist-sip-im-register-callId2" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei@ethz.ch>;tag=9875
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKefa9eea66773b06f911f7b1a36ac05a8
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907585217" 
+isSender="true" 
+transactionId="z9hg4bk0d8fcc5f5d6520037ed1a3b73d2ec7c4" 
+callId="nist-sip-im-register-callId3" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei@ethz.ch>;tag=2349
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK0d8fcc5f5d6520037ed1a3b73d2ec7c4
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907586653" 
+isSender="true" 
+transactionId="z9hg4bkefa9eea66773b06f911f7b1a36ac05a8" 
+callId="nist-sip-im-register-callId2" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei@ethz.ch>;tag=9875
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKefa9eea66773b06f911f7b1a36ac05a8
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907587225" 
+isSender="true" 
+transactionId="z9hg4bk0d8fcc5f5d6520037ed1a3b73d2ec7c4" 
+callId="nist-sip-im-register-callId3" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei@ethz.ch>;tag=2349
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK0d8fcc5f5d6520037ed1a3b73d2ec7c4
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907588613" 
+isSender="true" 
+transactionId="z9hg4bk8cce646353e9058de3cfe5bfc379b6a7" 
+callId="nist-sip-im-register-callId1" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei@ethz.ch>;tag=2687
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK8cce646353e9058de3cfe5bfc379b6a7
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907590661" 
+isSender="true" 
+transactionId="z9hg4bkefa9eea66773b06f911f7b1a36ac05a8" 
+callId="nist-sip-im-register-callId2" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei@ethz.ch>;tag=9875
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKefa9eea66773b06f911f7b1a36ac05a8
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907591239" 
+isSender="true" 
+transactionId="z9hg4bk0d8fcc5f5d6520037ed1a3b73d2ec7c4" 
+callId="nist-sip-im-register-callId3" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei@ethz.ch>;tag=2349
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK0d8fcc5f5d6520037ed1a3b73d2ec7c4
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907592628" 
+isSender="true" 
+transactionId="z9hg4bk8cce646353e9058de3cfe5bfc379b6a7" 
+callId="nist-sip-im-register-callId1" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei@ethz.ch>;tag=2687
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK8cce646353e9058de3cfe5bfc379b6a7
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907594669" 
+isSender="true" 
+transactionId="z9hg4bkefa9eea66773b06f911f7b1a36ac05a8" 
+callId="nist-sip-im-register-callId2" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei@ethz.ch>;tag=9875
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKefa9eea66773b06f911f7b1a36ac05a8
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907595255" 
+isSender="true" 
+transactionId="z9hg4bk0d8fcc5f5d6520037ed1a3b73d2ec7c4" 
+callId="nist-sip-im-register-callId3" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei@ethz.ch>;tag=2349
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK0d8fcc5f5d6520037ed1a3b73d2ec7c4
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907596643" 
+isSender="true" 
+transactionId="z9hg4bk8cce646353e9058de3cfe5bfc379b6a7" 
+callId="nist-sip-im-register-callId1" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei@ethz.ch>;tag=2687
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK8cce646353e9058de3cfe5bfc379b6a7
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907598675" 
+isSender="true" 
+transactionId="z9hg4bkefa9eea66773b06f911f7b1a36ac05a8" 
+callId="nist-sip-im-register-callId2" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei@ethz.ch>;tag=9875
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKefa9eea66773b06f911f7b1a36ac05a8
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907599270" 
+isSender="true" 
+transactionId="z9hg4bk0d8fcc5f5d6520037ed1a3b73d2ec7c4" 
+callId="nist-sip-im-register-callId3" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei@ethz.ch>;tag=2349
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK0d8fcc5f5d6520037ed1a3b73d2ec7c4
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907600659" 
+isSender="true" 
+transactionId="z9hg4bk8cce646353e9058de3cfe5bfc379b6a7" 
+callId="nist-sip-im-register-callId1" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei@ethz.ch>;tag=2687
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK8cce646353e9058de3cfe5bfc379b6a7
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907602682" 
+isSender="true" 
+transactionId="z9hg4bkefa9eea66773b06f911f7b1a36ac05a8" 
+callId="nist-sip-im-register-callId2" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei@ethz.ch>;tag=9875
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKefa9eea66773b06f911f7b1a36ac05a8
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907603285" 
+isSender="true" 
+transactionId="z9hg4bk0d8fcc5f5d6520037ed1a3b73d2ec7c4" 
+callId="nist-sip-im-register-callId3" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei@ethz.ch>;tag=2349
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK0d8fcc5f5d6520037ed1a3b73d2ec7c4
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907604189" 
+isSender="true" 
+transactionId="z9hg4bkfd6d4dec09ab8fb8322ad884a8b90ef5" 
+callId="nist-sip-im-register-callId4" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId4
+CSeq: 4 REGISTER
+From: <sip:frei2@ethz.ch>;tag=5180
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKfd6d4dec09ab8fb8322ad884a8b90ef5
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907604673" 
+isSender="true" 
+transactionId="z9hg4bk8cce646353e9058de3cfe5bfc379b6a7" 
+callId="nist-sip-im-register-callId1" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei@ethz.ch>;tag=2687
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK8cce646353e9058de3cfe5bfc379b6a7
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907604689" 
+isSender="true" 
+transactionId="z9hg4bkfd6d4dec09ab8fb8322ad884a8b90ef5" 
+callId="nist-sip-im-register-callId4" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId4
+CSeq: 4 REGISTER
+From: <sip:frei2@ethz.ch>;tag=5180
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKfd6d4dec09ab8fb8322ad884a8b90ef5
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907605691" 
+isSender="true" 
+transactionId="z9hg4bkfd6d4dec09ab8fb8322ad884a8b90ef5" 
+callId="nist-sip-im-register-callId4" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId4
+CSeq: 4 REGISTER
+From: <sip:frei2@ethz.ch>;tag=5180
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKfd6d4dec09ab8fb8322ad884a8b90ef5
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907605910" 
+isSender="true" 
+transactionId="z9hg4bkb575494b403d26a9550bd4f0325f653f" 
+callId="nist-sip-im-register-callId5" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId5
+CSeq: 5 REGISTER
+From: <sip:frei2@ethz.ch>;tag=9011
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb575494b403d26a9550bd4f0325f653f
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907606411" 
+isSender="true" 
+transactionId="z9hg4bkb575494b403d26a9550bd4f0325f653f" 
+callId="nist-sip-im-register-callId5" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId5
+CSeq: 5 REGISTER
+From: <sip:frei2@ethz.ch>;tag=9011
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb575494b403d26a9550bd4f0325f653f
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907606690" 
+isSender="true" 
+transactionId="z9hg4bkefa9eea66773b06f911f7b1a36ac05a8" 
+callId="nist-sip-im-register-callId2" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei@ethz.ch>;tag=9875
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKefa9eea66773b06f911f7b1a36ac05a8
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907607301" 
+isSender="true" 
+transactionId="z9hg4bk0d8fcc5f5d6520037ed1a3b73d2ec7c4" 
+callId="nist-sip-im-register-callId3" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei@ethz.ch>;tag=2349
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK0d8fcc5f5d6520037ed1a3b73d2ec7c4
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907607415" 
+isSender="true" 
+transactionId="z9hg4bkb575494b403d26a9550bd4f0325f653f" 
+callId="nist-sip-im-register-callId5" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId5
+CSeq: 5 REGISTER
+From: <sip:frei2@ethz.ch>;tag=9011
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb575494b403d26a9550bd4f0325f653f
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907607695" 
+isSender="true" 
+transactionId="z9hg4bkfd6d4dec09ab8fb8322ad884a8b90ef5" 
+callId="nist-sip-im-register-callId4" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId4
+CSeq: 4 REGISTER
+From: <sip:frei2@ethz.ch>;tag=5180
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKfd6d4dec09ab8fb8322ad884a8b90ef5
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= gov.nist.sip.instantmessaging.presence.IMRouter
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907621554" 
+isSender="true" 
+transactionId="z9hg4bkb935036adea85e4bdbd8d17bcc828ac9" 
+callId="nist-sip-im-register-callId1" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7855
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb935036adea85e4bdbd8d17bcc828ac9
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907622054" 
+isSender="true" 
+transactionId="z9hg4bkb935036adea85e4bdbd8d17bcc828ac9" 
+callId="nist-sip-im-register-callId1" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7855
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb935036adea85e4bdbd8d17bcc828ac9
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907622291" 
+isSender="true" 
+transactionId="z9hg4bk7fd397c03f62644299ae8cd42905cabd" 
+callId="nist-sip-im-register-callId2" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7562
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK7fd397c03f62644299ae8cd42905cabd
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907622793" 
+isSender="true" 
+transactionId="z9hg4bk7fd397c03f62644299ae8cd42905cabd" 
+callId="nist-sip-im-register-callId2" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7562
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK7fd397c03f62644299ae8cd42905cabd
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907622892" 
+isSender="true" 
+transactionId="z9hg4bk6763c7f3f41d32816182535a68173fef" 
+callId="nist-sip-im-register-callId3" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei2@ethz.ch>;tag=1272
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK6763c7f3f41d32816182535a68173fef
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907623057" 
+isSender="true" 
+transactionId="z9hg4bkb935036adea85e4bdbd8d17bcc828ac9" 
+callId="nist-sip-im-register-callId1" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7855
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb935036adea85e4bdbd8d17bcc828ac9
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907623386" 
+isSender="true" 
+transactionId="z9hg4bk6763c7f3f41d32816182535a68173fef" 
+callId="nist-sip-im-register-callId3" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei2@ethz.ch>;tag=1272
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK6763c7f3f41d32816182535a68173fef
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907623796" 
+isSender="true" 
+transactionId="z9hg4bk7fd397c03f62644299ae8cd42905cabd" 
+callId="nist-sip-im-register-callId2" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7562
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK7fd397c03f62644299ae8cd42905cabd
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907624389" 
+isSender="true" 
+transactionId="z9hg4bk6763c7f3f41d32816182535a68173fef" 
+callId="nist-sip-im-register-callId3" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei2@ethz.ch>;tag=1272
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK6763c7f3f41d32816182535a68173fef
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907625063" 
+isSender="true" 
+transactionId="z9hg4bkb935036adea85e4bdbd8d17bcc828ac9" 
+callId="nist-sip-im-register-callId1" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7855
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb935036adea85e4bdbd8d17bcc828ac9
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907625804" 
+isSender="true" 
+transactionId="z9hg4bk7fd397c03f62644299ae8cd42905cabd" 
+callId="nist-sip-im-register-callId2" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7562
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK7fd397c03f62644299ae8cd42905cabd
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907626398" 
+isSender="true" 
+transactionId="z9hg4bk6763c7f3f41d32816182535a68173fef" 
+callId="nist-sip-im-register-callId3" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei2@ethz.ch>;tag=1272
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK6763c7f3f41d32816182535a68173fef
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907629077" 
+isSender="true" 
+transactionId="z9hg4bkb935036adea85e4bdbd8d17bcc828ac9" 
+callId="nist-sip-im-register-callId1" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7855
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb935036adea85e4bdbd8d17bcc828ac9
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907629818" 
+isSender="true" 
+transactionId="z9hg4bk7fd397c03f62644299ae8cd42905cabd" 
+callId="nist-sip-im-register-callId2" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7562
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK7fd397c03f62644299ae8cd42905cabd
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907630414" 
+isSender="true" 
+transactionId="z9hg4bk6763c7f3f41d32816182535a68173fef" 
+callId="nist-sip-im-register-callId3" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei2@ethz.ch>;tag=1272
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK6763c7f3f41d32816182535a68173fef
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907633092" 
+isSender="true" 
+transactionId="z9hg4bkb935036adea85e4bdbd8d17bcc828ac9" 
+callId="nist-sip-im-register-callId1" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7855
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb935036adea85e4bdbd8d17bcc828ac9
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907633834" 
+isSender="true" 
+transactionId="z9hg4bk7fd397c03f62644299ae8cd42905cabd" 
+callId="nist-sip-im-register-callId2" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7562
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK7fd397c03f62644299ae8cd42905cabd
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907634430" 
+isSender="true" 
+transactionId="z9hg4bk6763c7f3f41d32816182535a68173fef" 
+callId="nist-sip-im-register-callId3" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei2@ethz.ch>;tag=1272
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK6763c7f3f41d32816182535a68173fef
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907637106" 
+isSender="true" 
+transactionId="z9hg4bkb935036adea85e4bdbd8d17bcc828ac9" 
+callId="nist-sip-im-register-callId1" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7855
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb935036adea85e4bdbd8d17bcc828ac9
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907637848" 
+isSender="true" 
+transactionId="z9hg4bk7fd397c03f62644299ae8cd42905cabd" 
+callId="nist-sip-im-register-callId2" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7562
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK7fd397c03f62644299ae8cd42905cabd
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907638447" 
+isSender="true" 
+transactionId="z9hg4bk6763c7f3f41d32816182535a68173fef" 
+callId="nist-sip-im-register-callId3" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei2@ethz.ch>;tag=1272
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK6763c7f3f41d32816182535a68173fef
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907641121" 
+isSender="true" 
+transactionId="z9hg4bkb935036adea85e4bdbd8d17bcc828ac9" 
+callId="nist-sip-im-register-callId1" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7855
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb935036adea85e4bdbd8d17bcc828ac9
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907641863" 
+isSender="true" 
+transactionId="z9hg4bk7fd397c03f62644299ae8cd42905cabd" 
+callId="nist-sip-im-register-callId2" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7562
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK7fd397c03f62644299ae8cd42905cabd
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907642461" 
+isSender="true" 
+transactionId="z9hg4bk6763c7f3f41d32816182535a68173fef" 
+callId="nist-sip-im-register-callId3" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei2@ethz.ch>;tag=1272
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK6763c7f3f41d32816182535a68173fef
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907645134" 
+isSender="true" 
+transactionId="z9hg4bkb935036adea85e4bdbd8d17bcc828ac9" 
+callId="nist-sip-im-register-callId1" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7855
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb935036adea85e4bdbd8d17bcc828ac9
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907647407" 
+isSender="true" 
+transactionId="z9hg4bk69059f1c838fbbd88c7fc7539fda2199" 
+callId="nist-sip-im-register-callId4" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId4
+CSeq: 4 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=534
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK69059f1c838fbbd88c7fc7539fda2199
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907647908" 
+isSender="true" 
+transactionId="z9hg4bk69059f1c838fbbd88c7fc7539fda2199" 
+callId="nist-sip-im-register-callId4" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId4
+CSeq: 4 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=534
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK69059f1c838fbbd88c7fc7539fda2199
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907648911" 
+isSender="true" 
+transactionId="z9hg4bk69059f1c838fbbd88c7fc7539fda2199" 
+callId="nist-sip-im-register-callId4" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId4
+CSeq: 4 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=534
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK69059f1c838fbbd88c7fc7539fda2199
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907649060" 
+isSender="true" 
+transactionId="z9hg4bke39ed55abfe2e6024b6afe11e6025704" 
+callId="nist-sip-im-register-callId5" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId5
+CSeq: 5 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=6848
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKe39ed55abfe2e6024b6afe11e6025704
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907649561" 
+isSender="true" 
+transactionId="z9hg4bke39ed55abfe2e6024b6afe11e6025704" 
+callId="nist-sip-im-register-callId5" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId5
+CSeq: 5 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=6848
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKe39ed55abfe2e6024b6afe11e6025704
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= gov.nist.sip.instantmessaging.presence.IMRouter
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907663411" 
+isSender="true" 
+transactionId="z9hg4bk8af6a455bd2935a362829a1e4e381b75" 
+callId="nist-sip-im-register-callId1" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7495
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK8af6a455bd2935a362829a1e4e381b75
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907663910" 
+isSender="true" 
+transactionId="z9hg4bk8af6a455bd2935a362829a1e4e381b75" 
+callId="nist-sip-im-register-callId1" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7495
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK8af6a455bd2935a362829a1e4e381b75
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907664109" 
+isSender="true" 
+transactionId="z9hg4bkcd5c6311b93ec897eaa0efae7b13bc18" 
+callId="nist-sip-im-register-callId2" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei2@ethz.ch>;tag=8796
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKcd5c6311b93ec897eaa0efae7b13bc18
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907664610" 
+isSender="true" 
+transactionId="z9hg4bkcd5c6311b93ec897eaa0efae7b13bc18" 
+callId="nist-sip-im-register-callId2" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei2@ethz.ch>;tag=8796
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKcd5c6311b93ec897eaa0efae7b13bc18
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907664913" 
+isSender="true" 
+transactionId="z9hg4bk8af6a455bd2935a362829a1e4e381b75" 
+callId="nist-sip-im-register-callId1" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7495
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK8af6a455bd2935a362829a1e4e381b75
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907665613" 
+isSender="true" 
+transactionId="z9hg4bkcd5c6311b93ec897eaa0efae7b13bc18" 
+callId="nist-sip-im-register-callId2" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei2@ethz.ch>;tag=8796
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKcd5c6311b93ec897eaa0efae7b13bc18
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907666921" 
+isSender="true" 
+transactionId="z9hg4bk8af6a455bd2935a362829a1e4e381b75" 
+callId="nist-sip-im-register-callId1" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7495
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK8af6a455bd2935a362829a1e4e381b75
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907667621" 
+isSender="true" 
+transactionId="z9hg4bkcd5c6311b93ec897eaa0efae7b13bc18" 
+callId="nist-sip-im-register-callId2" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei2@ethz.ch>;tag=8796
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKcd5c6311b93ec897eaa0efae7b13bc18
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907670936" 
+isSender="true" 
+transactionId="z9hg4bk8af6a455bd2935a362829a1e4e381b75" 
+callId="nist-sip-im-register-callId1" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7495
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK8af6a455bd2935a362829a1e4e381b75
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907671637" 
+isSender="true" 
+transactionId="z9hg4bkcd5c6311b93ec897eaa0efae7b13bc18" 
+callId="nist-sip-im-register-callId2" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei2@ethz.ch>;tag=8796
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKcd5c6311b93ec897eaa0efae7b13bc18
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907674950" 
+isSender="true" 
+transactionId="z9hg4bk8af6a455bd2935a362829a1e4e381b75" 
+callId="nist-sip-im-register-callId1" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7495
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK8af6a455bd2935a362829a1e4e381b75
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907675651" 
+isSender="true" 
+transactionId="z9hg4bkcd5c6311b93ec897eaa0efae7b13bc18" 
+callId="nist-sip-im-register-callId2" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei2@ethz.ch>;tag=8796
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKcd5c6311b93ec897eaa0efae7b13bc18
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907678965" 
+isSender="true" 
+transactionId="z9hg4bk8af6a455bd2935a362829a1e4e381b75" 
+callId="nist-sip-im-register-callId1" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7495
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK8af6a455bd2935a362829a1e4e381b75
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907680736" 
+isSender="true" 
+transactionId="z9hg4bkb84653a672b16d1e038cc2ada58e125d" 
+callId="nist-sip-im-register-callId3" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=352
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb84653a672b16d1e038cc2ada58e125d
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907681237" 
+isSender="true" 
+transactionId="z9hg4bkb84653a672b16d1e038cc2ada58e125d" 
+callId="nist-sip-im-register-callId3" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=352
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb84653a672b16d1e038cc2ada58e125d
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907682241" 
+isSender="true" 
+transactionId="z9hg4bkb84653a672b16d1e038cc2ada58e125d" 
+callId="nist-sip-im-register-callId3" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=352
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb84653a672b16d1e038cc2ada58e125d
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907682942" 
+isSender="true" 
+transactionId="z9hg4bk785055ac1d088d3e9588873d650cf591" 
+callId="nist-sip-im-register-callId4" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId4
+CSeq: 4 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=2587
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK785055ac1d088d3e9588873d650cf591
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907683431" 
+isSender="true" 
+transactionId="z9hg4bk6809182485bf877f7827abc66369c5a8" 
+callId="nist-sip-im-register-callId5" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId5
+CSeq: 5 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=2512
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK6809182485bf877f7827abc66369c5a8
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907683444" 
+isSender="true" 
+transactionId="z9hg4bk785055ac1d088d3e9588873d650cf591" 
+callId="nist-sip-im-register-callId4" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId4
+CSeq: 4 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=2587
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK785055ac1d088d3e9588873d650cf591
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907683923" 
+isSender="true" 
+transactionId="z9hg4bkac958a11083cea2eb3ab73c09e1f00b4" 
+callId="nist-sip-im-register-callId6" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId6
+CSeq: 6 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=9548
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKac958a11083cea2eb3ab73c09e1f00b4
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907683933" 
+isSender="true" 
+transactionId="z9hg4bk6809182485bf877f7827abc66369c5a8" 
+callId="nist-sip-im-register-callId5" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId5
+CSeq: 5 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=2512
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK6809182485bf877f7827abc66369c5a8
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907684248" 
+isSender="true" 
+transactionId="z9hg4bkb84653a672b16d1e038cc2ada58e125d" 
+callId="nist-sip-im-register-callId3" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=352
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb84653a672b16d1e038cc2ada58e125d
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907684425" 
+isSender="true" 
+transactionId="z9hg4bkac958a11083cea2eb3ab73c09e1f00b4" 
+callId="nist-sip-im-register-callId6" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId6
+CSeq: 6 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=9548
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKac958a11083cea2eb3ab73c09e1f00b4
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907684446" 
+isSender="true" 
+transactionId="z9hg4bk785055ac1d088d3e9588873d650cf591" 
+callId="nist-sip-im-register-callId4" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId4
+CSeq: 4 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=2587
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK785055ac1d088d3e9588873d650cf591
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907684935" 
+isSender="true" 
+transactionId="z9hg4bk6809182485bf877f7827abc66369c5a8" 
+callId="nist-sip-im-register-callId5" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId5
+CSeq: 5 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=2512
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK6809182485bf877f7827abc66369c5a8
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907685429" 
+isSender="true" 
+transactionId="z9hg4bkac958a11083cea2eb3ab73c09e1f00b4" 
+callId="nist-sip-im-register-callId6" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId6
+CSeq: 6 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=9548
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKac958a11083cea2eb3ab73c09e1f00b4
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907686450" 
+isSender="true" 
+transactionId="z9hg4bk785055ac1d088d3e9588873d650cf591" 
+callId="nist-sip-im-register-callId4" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId4
+CSeq: 4 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=2587
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK785055ac1d088d3e9588873d650cf591
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907686939" 
+isSender="true" 
+transactionId="z9hg4bk6809182485bf877f7827abc66369c5a8" 
+callId="nist-sip-im-register-callId5" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId5
+CSeq: 5 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=2512
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK6809182485bf877f7827abc66369c5a8
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907687437" 
+isSender="true" 
+transactionId="z9hg4bkac958a11083cea2eb3ab73c09e1f00b4" 
+callId="nist-sip-im-register-callId6" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId6
+CSeq: 6 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=9548
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKac958a11083cea2eb3ab73c09e1f00b4
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907688266" 
+isSender="true" 
+transactionId="z9hg4bkb84653a672b16d1e038cc2ada58e125d" 
+callId="nist-sip-im-register-callId3" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=352
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb84653a672b16d1e038cc2ada58e125d
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907690103" 
+isSender="true" 
+transactionId="z9hg4bk0fbb4a72edaff903e2161615cb2492a2" 
+callId="nist-sip-im-register-callId7" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId7
+CSeq: 7 REGISTER
+From: <sip:frei2@ethz.ch>;tag=6062
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK0fbb4a72edaff903e2161615cb2492a2
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907690458" 
+isSender="true" 
+transactionId="z9hg4bk785055ac1d088d3e9588873d650cf591" 
+callId="nist-sip-im-register-callId4" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId4
+CSeq: 4 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=2587
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK785055ac1d088d3e9588873d650cf591
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907690604" 
+isSender="true" 
+transactionId="z9hg4bk0fbb4a72edaff903e2161615cb2492a2" 
+callId="nist-sip-im-register-callId7" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId7
+CSeq: 7 REGISTER
+From: <sip:frei2@ethz.ch>;tag=6062
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK0fbb4a72edaff903e2161615cb2492a2
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907690949" 
+isSender="true" 
+transactionId="z9hg4bk6809182485bf877f7827abc66369c5a8" 
+callId="nist-sip-im-register-callId5" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId5
+CSeq: 5 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=2512
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK6809182485bf877f7827abc66369c5a8
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907691451" 
+isSender="true" 
+transactionId="z9hg4bkac958a11083cea2eb3ab73c09e1f00b4" 
+callId="nist-sip-im-register-callId6" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId6
+CSeq: 6 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=9548
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKac958a11083cea2eb3ab73c09e1f00b4
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907691608" 
+isSender="true" 
+transactionId="z9hg4bk0fbb4a72edaff903e2161615cb2492a2" 
+callId="nist-sip-im-register-callId7" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId7
+CSeq: 7 REGISTER
+From: <sip:frei2@ethz.ch>;tag=6062
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK0fbb4a72edaff903e2161615cb2492a2
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907692281" 
+isSender="true" 
+transactionId="z9hg4bkb84653a672b16d1e038cc2ada58e125d" 
+callId="nist-sip-im-register-callId3" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=352
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb84653a672b16d1e038cc2ada58e125d
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907693201" 
+isSender="true" 
+transactionId="z9hg4bk606662c2f4b89fb08adb81caee382af3" 
+callId="nist-sip-im-register-callId8" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId8
+CSeq: 8 REGISTER
+From: <sip:frei2@ethz.ch>;tag=1746
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK606662c2f4b89fb08adb81caee382af3
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907693616" 
+isSender="true" 
+transactionId="z9hg4bk0fbb4a72edaff903e2161615cb2492a2" 
+callId="nist-sip-im-register-callId7" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId7
+CSeq: 7 REGISTER
+From: <sip:frei2@ethz.ch>;tag=6062
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK0fbb4a72edaff903e2161615cb2492a2
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907693658" 
+isSender="true" 
+transactionId="z9hg4bk3acffe35124fa4cf23c6db4fcfaf68f5" 
+callId="nist-sip-im-register-callId9" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId9
+CSeq: 9 REGISTER
+From: <sip:frei2@ethz.ch>;tag=776
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK3acffe35124fa4cf23c6db4fcfaf68f5
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907693703" 
+isSender="true" 
+transactionId="z9hg4bk606662c2f4b89fb08adb81caee382af3" 
+callId="nist-sip-im-register-callId8" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId8
+CSeq: 8 REGISTER
+From: <sip:frei2@ethz.ch>;tag=1746
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK606662c2f4b89fb08adb81caee382af3
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907694157" 
+isSender="true" 
+transactionId="z9hg4bkf31c22d88a925ce1e1d72e6aaa730f8f" 
+callId="nist-sip-im-register-callId10" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId10
+CSeq: 10 REGISTER
+From: <sip:frei2@ethz.ch>;tag=9412
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKf31c22d88a925ce1e1d72e6aaa730f8f
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907694159" 
+isSender="true" 
+transactionId="z9hg4bk3acffe35124fa4cf23c6db4fcfaf68f5" 
+callId="nist-sip-im-register-callId9" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId9
+CSeq: 9 REGISTER
+From: <sip:frei2@ethz.ch>;tag=776
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK3acffe35124fa4cf23c6db4fcfaf68f5
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907694346" 
+isSender="true" 
+transactionId="z9hg4bke7b7199a63f33d7f4eecb4a5fdd8b54a" 
+callId="nist-sip-im-register-callId11" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId11
+CSeq: 11 REGISTER
+From: <sip:frei2@ethz.ch>;tag=9642
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKe7b7199a63f33d7f4eecb4a5fdd8b54a
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907694465" 
+isSender="true" 
+transactionId="z9hg4bk785055ac1d088d3e9588873d650cf591" 
+callId="nist-sip-im-register-callId4" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId4
+CSeq: 4 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=2587
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK785055ac1d088d3e9588873d650cf591
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907694499" 
+isSender="true" 
+transactionId="z9hg4bkb6c2dd0dd9efe9929009f69729ef73f9" 
+callId="nist-sip-im-register-callId12" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId12
+CSeq: 12 REGISTER
+From: <sip:frei2@ethz.ch>;tag=1312
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb6c2dd0dd9efe9929009f69729ef73f9
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907694658" 
+isSender="true" 
+transactionId="z9hg4bkf31c22d88a925ce1e1d72e6aaa730f8f" 
+callId="nist-sip-im-register-callId10" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId10
+CSeq: 10 REGISTER
+From: <sip:frei2@ethz.ch>;tag=9412
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKf31c22d88a925ce1e1d72e6aaa730f8f
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907694703" 
+isSender="true" 
+transactionId="z9hg4bk606662c2f4b89fb08adb81caee382af3" 
+callId="nist-sip-im-register-callId8" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId8
+CSeq: 8 REGISTER
+From: <sip:frei2@ethz.ch>;tag=1746
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK606662c2f4b89fb08adb81caee382af3
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907694846" 
+isSender="true" 
+transactionId="z9hg4bke7b7199a63f33d7f4eecb4a5fdd8b54a" 
+callId="nist-sip-im-register-callId11" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId11
+CSeq: 11 REGISTER
+From: <sip:frei2@ethz.ch>;tag=9642
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKe7b7199a63f33d7f4eecb4a5fdd8b54a
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907694964" 
+isSender="true" 
+transactionId="z9hg4bk6809182485bf877f7827abc66369c5a8" 
+callId="nist-sip-im-register-callId5" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId5
+CSeq: 5 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=2512
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK6809182485bf877f7827abc66369c5a8
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907694995" 
+isSender="true" 
+transactionId="z9hg4bkb6c2dd0dd9efe9929009f69729ef73f9" 
+callId="nist-sip-im-register-callId12" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId12
+CSeq: 12 REGISTER
+From: <sip:frei2@ethz.ch>;tag=1312
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb6c2dd0dd9efe9929009f69729ef73f9
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907695161" 
+isSender="true" 
+transactionId="z9hg4bk3acffe35124fa4cf23c6db4fcfaf68f5" 
+callId="nist-sip-im-register-callId9" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId9
+CSeq: 9 REGISTER
+From: <sip:frei2@ethz.ch>;tag=776
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK3acffe35124fa4cf23c6db4fcfaf68f5
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907695171" 
+isSender="true" 
+transactionId="z9hg4bkb1b3c4307c8444e498daf6345a5a6b54" 
+callId="nist-sip-im-register-callId13" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId13
+CSeq: 13 REGISTER
+From: <sip:frei2@ethz.ch>;tag=1243
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb1b3c4307c8444e498daf6345a5a6b54
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907695466" 
+isSender="true" 
+transactionId="z9hg4bkac958a11083cea2eb3ab73c09e1f00b4" 
+callId="nist-sip-im-register-callId6" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId6
+CSeq: 6 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=9548
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKac958a11083cea2eb3ab73c09e1f00b4
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907695665" 
+isSender="true" 
+transactionId="z9hg4bkf31c22d88a925ce1e1d72e6aaa730f8f" 
+callId="nist-sip-im-register-callId10" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId10
+CSeq: 10 REGISTER
+From: <sip:frei2@ethz.ch>;tag=9412
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKf31c22d88a925ce1e1d72e6aaa730f8f
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907695671" 
+isSender="true" 
+transactionId="z9hg4bkb1b3c4307c8444e498daf6345a5a6b54" 
+callId="nist-sip-im-register-callId13" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId13
+CSeq: 13 REGISTER
+From: <sip:frei2@ethz.ch>;tag=1243
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb1b3c4307c8444e498daf6345a5a6b54
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907695708" 
+isSender="true" 
+transactionId="z9hg4bk6f19d59476029811acd29505a5e1dcaa" 
+callId="nist-sip-im-register-callId14" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId14
+CSeq: 14 REGISTER
+From: <sip:frei2@ethz.ch>;tag=2846
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK6f19d59476029811acd29505a5e1dcaa
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907695850" 
+isSender="true" 
+transactionId="z9hg4bke7b7199a63f33d7f4eecb4a5fdd8b54a" 
+callId="nist-sip-im-register-callId11" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId11
+CSeq: 11 REGISTER
+From: <sip:frei2@ethz.ch>;tag=9642
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKe7b7199a63f33d7f4eecb4a5fdd8b54a
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907695996" 
+isSender="true" 
+transactionId="z9hg4bkb6c2dd0dd9efe9929009f69729ef73f9" 
+callId="nist-sip-im-register-callId12" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId12
+CSeq: 12 REGISTER
+From: <sip:frei2@ethz.ch>;tag=1312
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb6c2dd0dd9efe9929009f69729ef73f9
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907696207" 
+isSender="true" 
+transactionId="z9hg4bk6f19d59476029811acd29505a5e1dcaa" 
+callId="nist-sip-im-register-callId14" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId14
+CSeq: 14 REGISTER
+From: <sip:frei2@ethz.ch>;tag=2846
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK6f19d59476029811acd29505a5e1dcaa
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907696295" 
+isSender="true" 
+transactionId="z9hg4bkb84653a672b16d1e038cc2ada58e125d" 
+callId="nist-sip-im-register-callId3" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=352
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb84653a672b16d1e038cc2ada58e125d
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907696473" 
+isSender="true" 
+transactionId="z9hg4bk6de0481dc48adf14a28324c62f1bc888" 
+callId="nist-sip-im-register-callId15" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId15
+CSeq: 15 REGISTER
+From: <sip:frei2@ethz.ch>;tag=3858
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK6de0481dc48adf14a28324c62f1bc888
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907696673" 
+isSender="true" 
+transactionId="z9hg4bkb1b3c4307c8444e498daf6345a5a6b54" 
+callId="nist-sip-im-register-callId13" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId13
+CSeq: 13 REGISTER
+From: <sip:frei2@ethz.ch>;tag=1243
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb1b3c4307c8444e498daf6345a5a6b54
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907696708" 
+isSender="true" 
+transactionId="z9hg4bk606662c2f4b89fb08adb81caee382af3" 
+callId="nist-sip-im-register-callId8" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId8
+CSeq: 8 REGISTER
+From: <sip:frei2@ethz.ch>;tag=1746
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK606662c2f4b89fb08adb81caee382af3
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907696972" 
+isSender="true" 
+transactionId="z9hg4bk6de0481dc48adf14a28324c62f1bc888" 
+callId="nist-sip-im-register-callId15" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId15
+CSeq: 15 REGISTER
+From: <sip:frei2@ethz.ch>;tag=3858
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK6de0481dc48adf14a28324c62f1bc888
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907697168" 
+isSender="true" 
+transactionId="z9hg4bk3acffe35124fa4cf23c6db4fcfaf68f5" 
+callId="nist-sip-im-register-callId9" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId9
+CSeq: 9 REGISTER
+From: <sip:frei2@ethz.ch>;tag=776
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK3acffe35124fa4cf23c6db4fcfaf68f5
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907697209" 
+isSender="true" 
+transactionId="z9hg4bk6f19d59476029811acd29505a5e1dcaa" 
+callId="nist-sip-im-register-callId14" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId14
+CSeq: 14 REGISTER
+From: <sip:frei2@ethz.ch>;tag=2846
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK6f19d59476029811acd29505a5e1dcaa
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907697631" 
+isSender="true" 
+transactionId="z9hg4bk0fbb4a72edaff903e2161615cb2492a2" 
+callId="nist-sip-im-register-callId7" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId7
+CSeq: 7 REGISTER
+From: <sip:frei2@ethz.ch>;tag=6062
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK0fbb4a72edaff903e2161615cb2492a2
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907697669" 
+isSender="true" 
+transactionId="z9hg4bkf31c22d88a925ce1e1d72e6aaa730f8f" 
+callId="nist-sip-im-register-callId10" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId10
+CSeq: 10 REGISTER
+From: <sip:frei2@ethz.ch>;tag=9412
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKf31c22d88a925ce1e1d72e6aaa730f8f
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907697856" 
+isSender="true" 
+transactionId="z9hg4bke7b7199a63f33d7f4eecb4a5fdd8b54a" 
+callId="nist-sip-im-register-callId11" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId11
+CSeq: 11 REGISTER
+From: <sip:frei2@ethz.ch>;tag=9642
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKe7b7199a63f33d7f4eecb4a5fdd8b54a
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907697975" 
+isSender="true" 
+transactionId="z9hg4bk6de0481dc48adf14a28324c62f1bc888" 
+callId="nist-sip-im-register-callId15" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId15
+CSeq: 15 REGISTER
+From: <sip:frei2@ethz.ch>;tag=3858
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK6de0481dc48adf14a28324c62f1bc888
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907698000" 
+isSender="true" 
+transactionId="z9hg4bkb6c2dd0dd9efe9929009f69729ef73f9" 
+callId="nist-sip-im-register-callId12" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId12
+CSeq: 12 REGISTER
+From: <sip:frei2@ethz.ch>;tag=1312
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb6c2dd0dd9efe9929009f69729ef73f9
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907698477" 
+isSender="true" 
+transactionId="z9hg4bk785055ac1d088d3e9588873d650cf591" 
+callId="nist-sip-im-register-callId4" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId4
+CSeq: 4 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=2587
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK785055ac1d088d3e9588873d650cf591
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907698677" 
+isSender="true" 
+transactionId="z9hg4bkb1b3c4307c8444e498daf6345a5a6b54" 
+callId="nist-sip-im-register-callId13" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId13
+CSeq: 13 REGISTER
+From: <sip:frei2@ethz.ch>;tag=1243
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb1b3c4307c8444e498daf6345a5a6b54
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907698979" 
+isSender="true" 
+transactionId="z9hg4bk6809182485bf877f7827abc66369c5a8" 
+callId="nist-sip-im-register-callId5" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId5
+CSeq: 5 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=2512
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK6809182485bf877f7827abc66369c5a8
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907699213" 
+isSender="true" 
+transactionId="z9hg4bk6f19d59476029811acd29505a5e1dcaa" 
+callId="nist-sip-im-register-callId14" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId14
+CSeq: 14 REGISTER
+From: <sip:frei2@ethz.ch>;tag=2846
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK6f19d59476029811acd29505a5e1dcaa
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907699481" 
+isSender="true" 
+transactionId="z9hg4bkac958a11083cea2eb3ab73c09e1f00b4" 
+callId="nist-sip-im-register-callId6" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId6
+CSeq: 6 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=9548
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKac958a11083cea2eb3ab73c09e1f00b4
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907699983" 
+isSender="true" 
+transactionId="z9hg4bk6de0481dc48adf14a28324c62f1bc888" 
+callId="nist-sip-im-register-callId15" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId15
+CSeq: 15 REGISTER
+From: <sip:frei2@ethz.ch>;tag=3858
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK6de0481dc48adf14a28324c62f1bc888
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907700311" 
+isSender="true" 
+transactionId="z9hg4bkb84653a672b16d1e038cc2ada58e125d" 
+callId="nist-sip-im-register-callId3" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=352
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb84653a672b16d1e038cc2ada58e125d
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907700717" 
+isSender="true" 
+transactionId="z9hg4bk606662c2f4b89fb08adb81caee382af3" 
+callId="nist-sip-im-register-callId8" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId8
+CSeq: 8 REGISTER
+From: <sip:frei2@ethz.ch>;tag=1746
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK606662c2f4b89fb08adb81caee382af3
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907701176" 
+isSender="true" 
+transactionId="z9hg4bk3acffe35124fa4cf23c6db4fcfaf68f5" 
+callId="nist-sip-im-register-callId9" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId9
+CSeq: 9 REGISTER
+From: <sip:frei2@ethz.ch>;tag=776
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK3acffe35124fa4cf23c6db4fcfaf68f5
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907701647" 
+isSender="true" 
+transactionId="z9hg4bk0fbb4a72edaff903e2161615cb2492a2" 
+callId="nist-sip-im-register-callId7" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId7
+CSeq: 7 REGISTER
+From: <sip:frei2@ethz.ch>;tag=6062
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK0fbb4a72edaff903e2161615cb2492a2
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907701679" 
+isSender="true" 
+transactionId="z9hg4bkf31c22d88a925ce1e1d72e6aaa730f8f" 
+callId="nist-sip-im-register-callId10" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId10
+CSeq: 10 REGISTER
+From: <sip:frei2@ethz.ch>;tag=9412
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKf31c22d88a925ce1e1d72e6aaa730f8f
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907701865" 
+isSender="true" 
+transactionId="z9hg4bke7b7199a63f33d7f4eecb4a5fdd8b54a" 
+callId="nist-sip-im-register-callId11" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId11
+CSeq: 11 REGISTER
+From: <sip:frei2@ethz.ch>;tag=9642
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKe7b7199a63f33d7f4eecb4a5fdd8b54a
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907702007" 
+isSender="true" 
+transactionId="z9hg4bkb6c2dd0dd9efe9929009f69729ef73f9" 
+callId="nist-sip-im-register-callId12" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId12
+CSeq: 12 REGISTER
+From: <sip:frei2@ethz.ch>;tag=1312
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb6c2dd0dd9efe9929009f69729ef73f9
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907702491" 
+isSender="true" 
+transactionId="z9hg4bk785055ac1d088d3e9588873d650cf591" 
+callId="nist-sip-im-register-callId4" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId4
+CSeq: 4 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=2587
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK785055ac1d088d3e9588873d650cf591
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907702682" 
+isSender="true" 
+transactionId="z9hg4bkb1b3c4307c8444e498daf6345a5a6b54" 
+callId="nist-sip-im-register-callId13" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId13
+CSeq: 13 REGISTER
+From: <sip:frei2@ethz.ch>;tag=1243
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb1b3c4307c8444e498daf6345a5a6b54
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907702993" 
+isSender="true" 
+transactionId="z9hg4bk6809182485bf877f7827abc66369c5a8" 
+callId="nist-sip-im-register-callId5" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId5
+CSeq: 5 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=2512
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK6809182485bf877f7827abc66369c5a8
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907703220" 
+isSender="true" 
+transactionId="z9hg4bk6f19d59476029811acd29505a5e1dcaa" 
+callId="nist-sip-im-register-callId14" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId14
+CSeq: 14 REGISTER
+From: <sip:frei2@ethz.ch>;tag=2846
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK6f19d59476029811acd29505a5e1dcaa
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907703495" 
+isSender="true" 
+transactionId="z9hg4bkac958a11083cea2eb3ab73c09e1f00b4" 
+callId="nist-sip-im-register-callId6" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId6
+CSeq: 6 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=9548
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKac958a11083cea2eb3ab73c09e1f00b4
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907703997" 
+isSender="true" 
+transactionId="z9hg4bk6de0481dc48adf14a28324c62f1bc888" 
+callId="nist-sip-im-register-callId15" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId15
+CSeq: 15 REGISTER
+From: <sip:frei2@ethz.ch>;tag=3858
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK6de0481dc48adf14a28324c62f1bc888
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907704326" 
+isSender="true" 
+transactionId="z9hg4bkb84653a672b16d1e038cc2ada58e125d" 
+callId="nist-sip-im-register-callId3" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=352
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb84653a672b16d1e038cc2ada58e125d
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907704723" 
+isSender="true" 
+transactionId="z9hg4bk606662c2f4b89fb08adb81caee382af3" 
+callId="nist-sip-im-register-callId8" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId8
+CSeq: 8 REGISTER
+From: <sip:frei2@ethz.ch>;tag=1746
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK606662c2f4b89fb08adb81caee382af3
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907705183" 
+isSender="true" 
+transactionId="z9hg4bk3acffe35124fa4cf23c6db4fcfaf68f5" 
+callId="nist-sip-im-register-callId9" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId9
+CSeq: 9 REGISTER
+From: <sip:frei2@ethz.ch>;tag=776
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK3acffe35124fa4cf23c6db4fcfaf68f5
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907705662" 
+isSender="true" 
+transactionId="z9hg4bk0fbb4a72edaff903e2161615cb2492a2" 
+callId="nist-sip-im-register-callId7" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId7
+CSeq: 7 REGISTER
+From: <sip:frei2@ethz.ch>;tag=6062
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK0fbb4a72edaff903e2161615cb2492a2
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907705688" 
+isSender="true" 
+transactionId="z9hg4bkf31c22d88a925ce1e1d72e6aaa730f8f" 
+callId="nist-sip-im-register-callId10" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId10
+CSeq: 10 REGISTER
+From: <sip:frei2@ethz.ch>;tag=9412
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKf31c22d88a925ce1e1d72e6aaa730f8f
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907705873" 
+isSender="true" 
+transactionId="z9hg4bke7b7199a63f33d7f4eecb4a5fdd8b54a" 
+callId="nist-sip-im-register-callId11" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId11
+CSeq: 11 REGISTER
+From: <sip:frei2@ethz.ch>;tag=9642
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKe7b7199a63f33d7f4eecb4a5fdd8b54a
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907706014" 
+isSender="true" 
+transactionId="z9hg4bkb6c2dd0dd9efe9929009f69729ef73f9" 
+callId="nist-sip-im-register-callId12" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId12
+CSeq: 12 REGISTER
+From: <sip:frei2@ethz.ch>;tag=1312
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb6c2dd0dd9efe9929009f69729ef73f9
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907706507" 
+isSender="true" 
+transactionId="z9hg4bk785055ac1d088d3e9588873d650cf591" 
+callId="nist-sip-im-register-callId4" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId4
+CSeq: 4 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=2587
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK785055ac1d088d3e9588873d650cf591
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907706690" 
+isSender="true" 
+transactionId="z9hg4bkb1b3c4307c8444e498daf6345a5a6b54" 
+callId="nist-sip-im-register-callId13" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId13
+CSeq: 13 REGISTER
+From: <sip:frei2@ethz.ch>;tag=1243
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb1b3c4307c8444e498daf6345a5a6b54
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907707009" 
+isSender="true" 
+transactionId="z9hg4bk6809182485bf877f7827abc66369c5a8" 
+callId="nist-sip-im-register-callId5" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId5
+CSeq: 5 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=2512
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK6809182485bf877f7827abc66369c5a8
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907707229" 
+isSender="true" 
+transactionId="z9hg4bk6f19d59476029811acd29505a5e1dcaa" 
+callId="nist-sip-im-register-callId14" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId14
+CSeq: 14 REGISTER
+From: <sip:frei2@ethz.ch>;tag=2846
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK6f19d59476029811acd29505a5e1dcaa
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907709618" 
+isSender="true" 
+transactionId="z9hg4bk23622a552e28e4652086a8b43b00108a" 
+callId="nist-sip-im-register-callId16" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId16
+CSeq: 16 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=3014
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK23622a552e28e4652086a8b43b00108a
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907710118" 
+isSender="true" 
+transactionId="z9hg4bk23622a552e28e4652086a8b43b00108a" 
+callId="nist-sip-im-register-callId16" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId16
+CSeq: 16 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=3014
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK23622a552e28e4652086a8b43b00108a
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5070" 
+to="127.0.0.1:4000" 
+time="1101907711120" 
+isSender="true" 
+transactionId="z9hg4bk23622a552e28e4652086a8b43b00108a" 
+callId="nist-sip-im-register-callId16" 
+firstLine="REGISTER sip:sip.ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId16
+CSeq: 16 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=3014
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK23622a552e28e4652086a8b43b00108a
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 129.132.130.127
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= gov.nist.sip.instantmessaging.presence.IMRouter
+javax.sip.OUTBOUND_PROXY= 129.132.130.127:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="129.132.130.127" />
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907843817" 
+isSender="true" 
+transactionId="z9hg4bkdd4be8704c988233d5d8aaf224fee5b8" 
+callId="nist-sip-im-register-callId1" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7589
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bKdd4be8704c988233d5d8aaf224fee5b8
+Max-Forwards: 10
+Contact: <sip:129.132.130.127:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:4000" 
+to="129.132.130.127:5070" 
+time="1101907844064" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bkdd4be8704c988233d5d8aaf224fee5b8" 
+firstLine="SIP/2.0 200 OK" 
+callId="nist-sip-im-register-callId1" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7589
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bKdd4be8704c988233d5d8aaf224fee5b8
+Max-Forwards: 10
+Contact: <sip:129.132.130.127:5070;transport=udp>;expires=3600
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907844241" 
+isSender="true" 
+transactionId="z9hg4bk3b7b87def7fc6306b415c627ee48402c" 
+callId="nist-sip-im-subscribe-callId1" 
+firstLine="SUBSCRIBE sip:129.132.130.127:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[SUBSCRIBE sip:129.132.130.127:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-subscribe-callId1
+CSeq: 1 SUBSCRIBE
+From: <sip:frei2@ethz.ch>;tag=4089
+To: <sip:mranga@nist.gov>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK3b7b87def7fc6306b415c627ee48402c
+Max-Forwards: 70
+Contact: <sip:129.132.130.127:5070;transport=udp>
+Expires: 3600
+Event:  presence
+Accept: application/pidf+xml
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:4000" 
+to="129.132.130.127:5070" 
+time="1101907844283" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bk3b7b87def7fc6306b415c627ee48402c" 
+firstLine="SIP/2.0 480 Temporarily Unavailable" 
+callId="nist-sip-im-subscribe-callId1" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 480 Temporarily Unavailable
+Call-ID: nist-sip-im-subscribe-callId1
+CSeq: 1 SUBSCRIBE
+From: <sip:frei2@ethz.ch>;tag=4089
+To: <sip:mranga@nist.gov>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK3b7b87def7fc6306b415c627ee48402c
+Max-Forwards: 70
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907844317" 
+isSender="true" 
+transactionId="z9hg4bkdd4be8704c988233d5d8aaf224fee5b8" 
+callId="nist-sip-im-register-callId1" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7589
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bKdd4be8704c988233d5d8aaf224fee5b8
+Max-Forwards: 10
+Contact: <sip:129.132.130.127:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907844291" 
+isSender="true" 
+transactionId="z9hg4bk58ada00922c051782307fc16d9c6f2ca" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=1307
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK58ada00922c051782307fc16d9c6f2ca
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 227
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:4000" 
+to="129.132.130.127:5070" 
+time="1101907844650" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bkdd4be8704c988233d5d8aaf224fee5b8" 
+firstLine="SIP/2.0 200 OK" 
+callId="nist-sip-im-register-callId1" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7589
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bKdd4be8704c988233d5d8aaf224fee5b8
+Max-Forwards: 10
+Contact: <sip:129.132.130.127:5070;transport=udp>;expires=3600
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907844792" 
+isSender="true" 
+transactionId="z9hg4bk58ada00922c051782307fc16d9c6f2ca" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=1307
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK58ada00922c051782307fc16d9c6f2ca
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 227
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907845795" 
+isSender="true" 
+transactionId="z9hg4bk58ada00922c051782307fc16d9c6f2ca" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=1307
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK58ada00922c051782307fc16d9c6f2ca
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 227
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907847803" 
+isSender="true" 
+transactionId="z9hg4bk58ada00922c051782307fc16d9c6f2ca" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=1307
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK58ada00922c051782307fc16d9c6f2ca
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 227
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907851819" 
+isSender="true" 
+transactionId="z9hg4bk58ada00922c051782307fc16d9c6f2ca" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=1307
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK58ada00922c051782307fc16d9c6f2ca
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 227
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907855833" 
+isSender="true" 
+transactionId="z9hg4bk58ada00922c051782307fc16d9c6f2ca" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=1307
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK58ada00922c051782307fc16d9c6f2ca
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 227
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907859848" 
+isSender="true" 
+transactionId="z9hg4bk58ada00922c051782307fc16d9c6f2ca" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=1307
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK58ada00922c051782307fc16d9c6f2ca
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 227
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907863863" 
+isSender="true" 
+transactionId="z9hg4bk58ada00922c051782307fc16d9c6f2ca" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=1307
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK58ada00922c051782307fc16d9c6f2ca
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 227
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907867879" 
+isSender="true" 
+transactionId="z9hg4bk58ada00922c051782307fc16d9c6f2ca" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=1307
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK58ada00922c051782307fc16d9c6f2ca
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 227
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907869363" 
+isSender="true" 
+transactionId="z9hg4bkb57c1fe440dd232e1a44fe169cac7560" 
+callId="nist-sip-im-message-callId1" 
+firstLine="MESSAGE sip:129.132.130.127:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:129.132.130.127:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId1
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=3123
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bKb57c1fe440dd232e1a44fe169cac7560
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:129.132.130.127:5070;transport=udp>
+Content-Length: 5
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:4000" 
+to="129.132.130.127:5070" 
+time="1101907869525" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bkb57c1fe440dd232e1a44fe169cac7560" 
+firstLine="SIP/2.0 200 OK" 
+callId="nist-sip-im-message-callId1" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 200 OK
+From: <sip:frei2@ethz.ch>;tag=3123
+To: <sip:frei@ethz.ch>;tag=06b9b646c5a848eeb0e95269d0f63647
+Call-ID: nist-sip-im-message-callId1
+CSeq: 1 MESSAGE
+Record-Route: <sip:129.132.130.127:5060>
+Contact: <sip:129.132.130.142:9496>
+User-Agent: RTC/1.2
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bKb57c1fe440dd232e1a44fe169cac7560
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907871889" 
+isSender="true" 
+transactionId="z9hg4bk58ada00922c051782307fc16d9c6f2ca" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=1307
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK58ada00922c051782307fc16d9c6f2ca
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 227
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907875899" 
+isSender="true" 
+transactionId="z9hg4bk58ada00922c051782307fc16d9c6f2ca" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=1307
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK58ada00922c051782307fc16d9c6f2ca
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 227
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907894895" 
+isSender="true" 
+transactionId="z9hg4bk003a531ca431fa9e57b7db3783ca4ea5" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=8664
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK003a531ca431fa9e57b7db3783ca4ea5
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 230
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907894908" 
+isSender="true" 
+transactionId="z9hg4bk189e67bfe10895fe2db5225b355adad0" 
+callId="nist-sip-im-register-callId2" 
+firstLine="REGISTER sip:129.132.130.127:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:129.132.130.127:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7383
+To: <sip:frei2@ethz.ch>;tag=6939
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK189e67bfe10895fe2db5225b355adad0
+Max-Forwards: 10
+Contact: <sip:129.132.130.127:5070;transport=udp>
+Expires: 0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:4000" 
+to="129.132.130.127:5070" 
+time="1101907895036" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bk189e67bfe10895fe2db5225b355adad0" 
+firstLine="SIP/2.0 200 OK" 
+callId="nist-sip-im-register-callId2" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7383
+To: <sip:frei2@ethz.ch>;tag=6939
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK189e67bfe10895fe2db5225b355adad0
+Max-Forwards: 10
+Expires: 0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907895396" 
+isSender="true" 
+transactionId="z9hg4bk003a531ca431fa9e57b7db3783ca4ea5" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=8664
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK003a531ca431fa9e57b7db3783ca4ea5
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 230
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:4000" 
+to="129.132.130.127:5070" 
+time="1101907895418" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bk003a531ca431fa9e57b7db3783ca4ea5" 
+firstLine="SIP/2.0 480 Temporarily Unavailable" 
+callId="0frei2@ethz.ch" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 480 Temporarily Unavailable
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=8664
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK003a531ca431fa9e57b7db3783ca4ea5
+Max-Forwards: 70
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907899828" 
+isSender="true" 
+transactionId="z9hg4bk8af1656e341c689f442bad445080a673" 
+callId="nist-sip-im-register-callId3" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei2@ethz.ch>;tag=6014
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK8af1656e341c689f442bad445080a673
+Max-Forwards: 10
+Contact: <sip:129.132.130.127:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:4000" 
+to="129.132.130.127:5070" 
+time="1101907899871" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bk8af1656e341c689f442bad445080a673" 
+firstLine="SIP/2.0 200 OK" 
+callId="nist-sip-im-register-callId3" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei2@ethz.ch>;tag=6014
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK8af1656e341c689f442bad445080a673
+Max-Forwards: 10
+Contact: <sip:129.132.130.127:5070;transport=udp>;expires=3600
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907899947" 
+isSender="true" 
+transactionId="z9hg4bkd7f16548308af9a4e0f5121225d19dc9" 
+callId="nist-sip-im-subscribe-callId2" 
+firstLine="SUBSCRIBE sip:129.132.130.127:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[SUBSCRIBE sip:129.132.130.127:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-subscribe-callId2
+CSeq: 1 SUBSCRIBE
+From: <sip:frei2@ethz.ch>;tag=2900
+To: <sip:mranga@nist.gov>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bKd7f16548308af9a4e0f5121225d19dc9
+Max-Forwards: 70
+Contact: <sip:129.132.130.127:5070;transport=udp>
+Expires: 3600
+Event:  presence
+Accept: application/pidf+xml
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907899984" 
+isSender="true" 
+transactionId="z9hg4bk691836f02523e3f4b91316f618842a50" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=2067
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK691836f02523e3f4b91316f618842a50
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 227
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:4000" 
+to="129.132.130.127:5070" 
+time="1101907900039" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bkd7f16548308af9a4e0f5121225d19dc9" 
+firstLine="SIP/2.0 480 Temporarily Unavailable" 
+callId="nist-sip-im-subscribe-callId2" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 480 Temporarily Unavailable
+Call-ID: nist-sip-im-subscribe-callId2
+CSeq: 1 SUBSCRIBE
+From: <sip:frei2@ethz.ch>;tag=2900
+To: <sip:mranga@nist.gov>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bKd7f16548308af9a4e0f5121225d19dc9
+Max-Forwards: 70
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907900485" 
+isSender="true" 
+transactionId="z9hg4bk691836f02523e3f4b91316f618842a50" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=2067
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK691836f02523e3f4b91316f618842a50
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 227
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907901487" 
+isSender="true" 
+transactionId="z9hg4bk691836f02523e3f4b91316f618842a50" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=2067
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK691836f02523e3f4b91316f618842a50
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 227
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907903491" 
+isSender="true" 
+transactionId="z9hg4bk691836f02523e3f4b91316f618842a50" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=2067
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK691836f02523e3f4b91316f618842a50
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 227
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907907502" 
+isSender="true" 
+transactionId="z9hg4bk691836f02523e3f4b91316f618842a50" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=2067
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK691836f02523e3f4b91316f618842a50
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 227
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907911517" 
+isSender="true" 
+transactionId="z9hg4bk691836f02523e3f4b91316f618842a50" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=2067
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK691836f02523e3f4b91316f618842a50
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 227
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907915531" 
+isSender="true" 
+transactionId="z9hg4bk691836f02523e3f4b91316f618842a50" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=2067
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK691836f02523e3f4b91316f618842a50
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 227
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907919546" 
+isSender="true" 
+transactionId="z9hg4bk691836f02523e3f4b91316f618842a50" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=2067
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK691836f02523e3f4b91316f618842a50
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 227
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907923561" 
+isSender="true" 
+transactionId="z9hg4bk691836f02523e3f4b91316f618842a50" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=2067
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK691836f02523e3f4b91316f618842a50
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 227
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907927576" 
+isSender="true" 
+transactionId="z9hg4bk691836f02523e3f4b91316f618842a50" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=2067
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK691836f02523e3f4b91316f618842a50
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 227
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907931591" 
+isSender="true" 
+transactionId="z9hg4bk691836f02523e3f4b91316f618842a50" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=2067
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK691836f02523e3f4b91316f618842a50
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 227
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907950576" 
+isSender="true" 
+transactionId="z9hg4bk51554df5c71230e2a5e45b502ba4b4f5" 
+callId="nist-sip-im-subscribe-callId3" 
+firstLine="SUBSCRIBE sip:129.132.130.127:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[SUBSCRIBE sip:129.132.130.127:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-subscribe-callId3
+CSeq: 1 SUBSCRIBE
+From: <sip:frei2@ethz.ch>;tag=1572
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK51554df5c71230e2a5e45b502ba4b4f5
+Max-Forwards: 70
+Contact: <sip:129.132.130.127:5070;transport=udp>
+Expires: 3600
+Event:  presence
+Accept: application/pidf+xml
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:4000" 
+to="129.132.130.127:5070" 
+time="1101907950700" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bk51554df5c71230e2a5e45b502ba4b4f5" 
+firstLine="SIP/2.0 406 Not Acceptable" 
+callId="nist-sip-im-subscribe-callId3" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 406 Not Acceptable
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK51554df5c71230e2a5e45b502ba4b4f5
+From: <sip:frei2@ethz.ch>;tag=1572
+To: <sip:frei@ethz.ch>;tag=a091bfc10e9740158c507e9675fb3d91
+Call-ID: nist-sip-im-subscribe-callId3
+CSeq: 1 SUBSCRIBE
+User-Agent: RTC/1.2
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907956761" 
+isSender="true" 
+transactionId="z9hg4bk00ee6849026886457c2b25a82cd95ff2" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=2987
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK00ee6849026886457c2b25a82cd95ff2
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 230
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907956968" 
+isSender="true" 
+transactionId="z9hg4bkeecf2444895bfed479ce5e8c65a8f16b" 
+callId="nist-sip-im-register-callId4" 
+firstLine="REGISTER sip:129.132.130.127:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:129.132.130.127:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId4
+CSeq: 4 REGISTER
+From: <sip:frei2@ethz.ch>;tag=9626
+To: <sip:frei2@ethz.ch>;tag=8997
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bKeecf2444895bfed479ce5e8c65a8f16b
+Max-Forwards: 10
+Contact: <sip:129.132.130.127:5070;transport=udp>
+Expires: 0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:4000" 
+to="129.132.130.127:5070" 
+time="1101907957009" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bkeecf2444895bfed479ce5e8c65a8f16b" 
+firstLine="SIP/2.0 200 OK" 
+callId="nist-sip-im-register-callId4" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: nist-sip-im-register-callId4
+CSeq: 4 REGISTER
+From: <sip:frei2@ethz.ch>;tag=9626
+To: <sip:frei2@ethz.ch>;tag=8997
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bKeecf2444895bfed479ce5e8c65a8f16b
+Max-Forwards: 10
+Expires: 0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907957263" 
+isSender="true" 
+transactionId="z9hg4bk00ee6849026886457c2b25a82cd95ff2" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=2987
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK00ee6849026886457c2b25a82cd95ff2
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 230
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:4000" 
+to="129.132.130.127:5070" 
+time="1101907957277" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bk00ee6849026886457c2b25a82cd95ff2" 
+firstLine="SIP/2.0 480 Temporarily Unavailable" 
+callId="0frei2@ethz.ch" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 480 Temporarily Unavailable
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=2987
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK00ee6849026886457c2b25a82cd95ff2
+Max-Forwards: 70
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907961309" 
+isSender="true" 
+transactionId="z9hg4bkbf620ee8ec5b6cccc10d0e0fa26a616d" 
+callId="nist-sip-im-register-callId5" 
+firstLine="REGISTER sip:ethz.ch:4000 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId5
+CSeq: 5 REGISTER
+From: <sip:frei2@ethz.ch>;tag=6470
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bKbf620ee8ec5b6cccc10d0e0fa26a616d
+Max-Forwards: 10
+Contact: <sip:129.132.130.127:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:4000" 
+to="129.132.130.127:5070" 
+time="1101907961343" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bkbf620ee8ec5b6cccc10d0e0fa26a616d" 
+firstLine="SIP/2.0 200 OK" 
+callId="nist-sip-im-register-callId5" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: nist-sip-im-register-callId5
+CSeq: 5 REGISTER
+From: <sip:frei2@ethz.ch>;tag=6470
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bKbf620ee8ec5b6cccc10d0e0fa26a616d
+Max-Forwards: 10
+Contact: <sip:129.132.130.127:5070;transport=udp>;expires=3600
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907961419" 
+isSender="true" 
+transactionId="z9hg4bk252c99ed228e794678f31acabfc29929" 
+callId="nist-sip-im-subscribe-callId4" 
+firstLine="SUBSCRIBE sip:129.132.130.127:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[SUBSCRIBE sip:129.132.130.127:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-subscribe-callId4
+CSeq: 1 SUBSCRIBE
+From: <sip:frei2@ethz.ch>;tag=4585
+To: <sip:mranga@nist.gov>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK252c99ed228e794678f31acabfc29929
+Max-Forwards: 70
+Contact: <sip:129.132.130.127:5070;transport=udp>
+Expires: 3600
+Event:  presence
+Accept: application/pidf+xml
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907961427" 
+isSender="true" 
+transactionId="z9hg4bk7375a7f09c3f27bf6ef7c12954bbd407" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=6314
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK7375a7f09c3f27bf6ef7c12954bbd407
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 227
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:4000" 
+to="129.132.130.127:5070" 
+time="1101907961520" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bk252c99ed228e794678f31acabfc29929" 
+firstLine="SIP/2.0 480 Temporarily Unavailable" 
+callId="nist-sip-im-subscribe-callId4" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 480 Temporarily Unavailable
+Call-ID: nist-sip-im-subscribe-callId4
+CSeq: 1 SUBSCRIBE
+From: <sip:frei2@ethz.ch>;tag=4585
+To: <sip:mranga@nist.gov>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK252c99ed228e794678f31acabfc29929
+Max-Forwards: 70
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907961926" 
+isSender="true" 
+transactionId="z9hg4bk7375a7f09c3f27bf6ef7c12954bbd407" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=6314
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK7375a7f09c3f27bf6ef7c12954bbd407
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 227
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907962928" 
+isSender="true" 
+transactionId="z9hg4bk7375a7f09c3f27bf6ef7c12954bbd407" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=6314
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK7375a7f09c3f27bf6ef7c12954bbd407
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 227
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907964932" 
+isSender="true" 
+transactionId="z9hg4bk7375a7f09c3f27bf6ef7c12954bbd407" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=6314
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK7375a7f09c3f27bf6ef7c12954bbd407
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 227
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907968948" 
+isSender="true" 
+transactionId="z9hg4bk7375a7f09c3f27bf6ef7c12954bbd407" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=6314
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK7375a7f09c3f27bf6ef7c12954bbd407
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 227
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907972963" 
+isSender="true" 
+transactionId="z9hg4bk7375a7f09c3f27bf6ef7c12954bbd407" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=6314
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK7375a7f09c3f27bf6ef7c12954bbd407
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 227
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907976978" 
+isSender="true" 
+transactionId="z9hg4bk7375a7f09c3f27bf6ef7c12954bbd407" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=6314
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK7375a7f09c3f27bf6ef7c12954bbd407
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 227
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907976998" 
+isSender="true" 
+transactionId="z9hg4bk39420cd101cba13e8915ac1cb3b89a8e" 
+callId="nist-sip-im-message-callId2" 
+firstLine="MESSAGE sip:129.132.130.127:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:129.132.130.127:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId2
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=9407
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK39420cd101cba13e8915ac1cb3b89a8e
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:129.132.130.127:5070;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:4000" 
+to="129.132.130.127:5070" 
+time="1101907977092" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bk39420cd101cba13e8915ac1cb3b89a8e" 
+firstLine="SIP/2.0 200 OK" 
+callId="nist-sip-im-message-callId2" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 200 OK
+From: <sip:frei2@ethz.ch>;tag=9407
+To: <sip:frei@ethz.ch>;tag=7ede405a10fd4d5380096b4ce70aa00a
+Call-ID: nist-sip-im-message-callId2
+CSeq: 1 MESSAGE
+Record-Route: <sip:129.132.130.127:5060>
+Contact: <sip:129.132.130.142:9496>
+User-Agent: RTC/1.2
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK39420cd101cba13e8915ac1cb3b89a8e
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907980993" 
+isSender="true" 
+transactionId="z9hg4bk7375a7f09c3f27bf6ef7c12954bbd407" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=6314
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK7375a7f09c3f27bf6ef7c12954bbd407
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 227
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907985007" 
+isSender="true" 
+transactionId="z9hg4bk7375a7f09c3f27bf6ef7c12954bbd407" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=6314
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK7375a7f09c3f27bf6ef7c12954bbd407
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 227
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907989022" 
+isSender="true" 
+transactionId="z9hg4bk7375a7f09c3f27bf6ef7c12954bbd407" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=6314
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK7375a7f09c3f27bf6ef7c12954bbd407
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 227
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101907993037" 
+isSender="true" 
+transactionId="z9hg4bk7375a7f09c3f27bf6ef7c12954bbd407" 
+callId="0frei2@ethz.ch" 
+firstLine="PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[PUBLISH sip:frei2@ethz.ch:4000;transport=udp SIP/2.0
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=6314
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK7375a7f09c3f27bf6ef7c12954bbd407
+Max-Forwards: 70
+Event:  presence
+Content-Type: application/pidf+xml
+Content-Length: 227
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5060" 
+to="129.132.130.127:5070" 
+time="1101908097851" 
+isSender="false" 
+transactionId="z9hg4bkebe4a5b47d9b13e2a6abc7627876d2c1" 
+callId="c44e6a91d72b48e3aff1e8a4d2335847@129.132.130.142" 
+firstLine="ACK sip:129.132.130.127:5060 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[ACK sip:129.132.130.127:5060 SIP/2.0
+Via: SIP/2.0/UDP 129.132.130.127:5060;branch=z9hG4bKebe4a5b47d9b13e2a6abc7627876d2c1
+Max-Forwards: 69
+From: "frei@ethz.ch" <sip:frei@ethz.ch>;tag=a962233a7b1e41b4b7921e27959d292f;epid=88880c3dd1
+To: <sip:frei2@ethz.ch>
+Call-ID: c44e6a91d72b48e3aff1e8a4d2335847@129.132.130.142
+CSeq: 1 ACK
+User-Agent: RTC/1.2
+Record-Route: <sip:129.132.130.127:5060>
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:5060" 
+time="1101908097783" 
+isSender="true" 
+transactionId="z9hg4bkebe4a5b47d9b13e2a6abc7627876d2c1" 
+callId="c44e6a91d72b48e3aff1e8a4d2335847@129.132.130.142" 
+firstLine="SIP/2.0 405 Method not allowed" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 405 Method not allowed
+Via: SIP/2.0/UDP 129.132.130.127:5060;branch=z9hG4bKebe4a5b47d9b13e2a6abc7627876d2c1,SIP/2.0/UDP 129.132.130.142:9496
+Max-Forwards: 69
+From: "frei@ethz.ch" <sip:frei@ethz.ch>;tag=a962233a7b1e41b4b7921e27959d292f;epid=88880c3dd1
+To: <sip:frei2@ethz.ch>
+Call-ID: c44e6a91d72b48e3aff1e8a4d2335847@129.132.130.142
+CSeq: 1 INVITE
+Record-Route: <sip:129.132.130.127:5060>
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5060" 
+to="129.132.130.127:5070" 
+time="1101908097739" 
+isSender="false" 
+transactionId="z9hg4bkebe4a5b47d9b13e2a6abc7627876d2c1" 
+callId="c44e6a91d72b48e3aff1e8a4d2335847@129.132.130.142" 
+firstLine="INVITE sip:129.132.130.127:5070 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[INVITE sip:129.132.130.127:5070 SIP/2.0
+Via: SIP/2.0/UDP 129.132.130.127:5060;branch=z9hG4bKebe4a5b47d9b13e2a6abc7627876d2c1,SIP/2.0/UDP 129.132.130.142:9496
+Max-Forwards: 69
+From: "frei@ethz.ch" <sip:frei@ethz.ch>;tag=a962233a7b1e41b4b7921e27959d292f;epid=88880c3dd1
+To: <sip:frei2@ethz.ch>
+Call-ID: c44e6a91d72b48e3aff1e8a4d2335847@129.132.130.142
+CSeq: 1 INVITE
+Contact: <sip:129.132.130.142:9496>
+User-Agent: RTC/1.2
+Content-Type: application/sdp
+Record-Route: <sip:129.132.130.127:5060>
+Content-Length: 158
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5060" 
+to="129.132.130.127:5070" 
+time="1101908104711" 
+isSender="false" 
+transactionId="z9hg4bk1016909f941000c86e57ac48aef30666" 
+callId="8202ee1ecf244cd5ad6069ac2b07a556@129.132.130.142" 
+firstLine="SUBSCRIBE sip:129.132.130.127:5070 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[SUBSCRIBE sip:129.132.130.127:5070 SIP/2.0
+Via: SIP/2.0/UDP 129.132.130.127:5060;branch=z9hG4bK1016909f941000c86e57ac48aef30666,SIP/2.0/UDP 129.132.130.142:9496
+Max-Forwards: 69
+From: "frei@ethz.ch" <sip:frei@ethz.ch>;tag=15826ecb93ad4dada4a944bd8ecee9cd;epid=88880c3dd1
+To: <sip:frei2@ethz.ch>
+Call-ID: 8202ee1ecf244cd5ad6069ac2b07a556@129.132.130.142
+CSeq: 1 SUBSCRIBE
+Contact: <sip:129.132.130.142:9496>
+User-Agent: RTC/1.2
+Event:  presence
+Accept: application/xpidf+xml,text/xml+msrtc.pidf
+Supported: com.microsoft.autoextend
+Record-Route: <sip:129.132.130.127:5060>
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:5060" 
+time="1101908104733" 
+isSender="true" 
+transactionId="z9hg4bk1016909f941000c86e57ac48aef30666" 
+callId="8202ee1ecf244cd5ad6069ac2b07a556@129.132.130.142" 
+firstLine="SIP/2.0 202 Accepted" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 202 Accepted
+Via: SIP/2.0/UDP 129.132.130.127:5060;branch=z9hG4bK1016909f941000c86e57ac48aef30666,SIP/2.0/UDP 129.132.130.142:9496
+Max-Forwards: 69
+From: "frei@ethz.ch" <sip:frei@ethz.ch>;tag=15826ecb93ad4dada4a944bd8ecee9cd;epid=88880c3dd1
+To: <sip:frei2@ethz.ch>;tag=7858
+Call-ID: 8202ee1ecf244cd5ad6069ac2b07a556@129.132.130.142
+CSeq: 1 SUBSCRIBE
+Record-Route: <sip:129.132.130.127:5060>
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101908114336" 
+isSender="true" 
+transactionId="z9hg4bkf9e989bead47149474267bf2c533aaaa" 
+callId="nist-sip-im-subscribe-callId5" 
+firstLine="SUBSCRIBE sip:129.132.130.127:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[SUBSCRIBE sip:129.132.130.127:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-subscribe-callId5
+CSeq: 1 SUBSCRIBE
+From: <sip:frei2@ethz.ch>;tag=2115
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bKf9e989bead47149474267bf2c533aaaa
+Max-Forwards: 70
+Contact: <sip:129.132.130.127:5070;transport=udp>
+Expires: 3600
+Event:  presence
+Accept: application/pidf+xml
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101908114404" 
+isSender="true" 
+transactionId="z9hg4bk6f94fd01d5443c9e6c74d70be7d766d7" 
+callId="8202ee1ecf244cd5ad6069ac2b07a556@129.132.130.142" 
+firstLine="NOTIFY sip:129.132.130.127:5060 SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[NOTIFY sip:129.132.130.127:5060 SIP/2.0
+Call-ID: 8202ee1ecf244cd5ad6069ac2b07a556@129.132.130.142
+CSeq: 1 NOTIFY
+From: <sip:frei2@ethz.ch>;tag=7858
+To: "frei@ethz.ch" <sip:frei@ethz.ch>;tag=15826ecb93ad4dada4a944bd8ecee9cd
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK6f94fd01d5443c9e6c74d70be7d766d7
+Max-Forwards: 70
+Content-Type: application/xpidf+xml
+Subscription-State: active
+Event:  presence
+Route: <sip:129.132.130.142:9496>
+Content-Length: 311
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:4000" 
+to="129.132.130.127:5070" 
+time="1101908114516" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bk6f94fd01d5443c9e6c74d70be7d766d7" 
+firstLine="SIP/2.0 200 OK" 
+callId="8202ee1ecf244cd5ad6069ac2b07a556@129.132.130.142" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 200 OK
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK6f94fd01d5443c9e6c74d70be7d766d7
+From: <sip:frei2@ethz.ch>;tag=7858
+To: "frei@ethz.ch" <sip:frei@ethz.ch>;tag=15826ecb93ad4dada4a944bd8ecee9cd;epid=88880c3dd1
+Call-ID: 8202ee1ecf244cd5ad6069ac2b07a556@129.132.130.142
+CSeq: 1 NOTIFY
+User-Agent: RTC/1.2
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:4000" 
+to="129.132.130.127:5070" 
+time="1101908114552" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bkf9e989bead47149474267bf2c533aaaa" 
+firstLine="SIP/2.0 406 Not Acceptable" 
+callId="nist-sip-im-subscribe-callId5" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 406 Not Acceptable
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bKf9e989bead47149474267bf2c533aaaa
+From: <sip:frei2@ethz.ch>;tag=2115
+To: <sip:frei@ethz.ch>;tag=5d608ba2159f45beaf918dbca215eed7
+Call-ID: nist-sip-im-subscribe-callId5
+CSeq: 1 SUBSCRIBE
+User-Agent: RTC/1.2
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:5070" 
+to="129.132.130.127:4000" 
+time="1101912495592" 
+isSender="true" 
+transactionId="z9hg4bk494ae9e5241ab7af05680895467c52e1" 
+callId="nist-sip-im-message-callId3" 
+firstLine="MESSAGE sip:129.132.130.127:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:129.132.130.127:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId3
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=4839
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK494ae9e5241ab7af05680895467c52e1
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:129.132.130.127:5070;transport=udp>
+Content-Length: 5
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:4000" 
+to="129.132.130.127:5070" 
+time="1101912495669" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bk494ae9e5241ab7af05680895467c52e1" 
+firstLine="SIP/2.0 100 Trying" 
+callId="nist-sip-im-message-callId3" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 100 Trying
+From: <sip:frei2@ethz.ch>;tag=4839
+To: <sip:frei@ethz.ch>;tag=3e480bac0ef94c7a95a6abbcc074bbaa
+Call-ID: nist-sip-im-message-callId3
+CSeq: 1 MESSAGE
+User-Agent: RTC/1.2
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK494ae9e5241ab7af05680895467c52e1
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="129.132.130.127:4000" 
+to="129.132.130.127:5070" 
+time="1101912495725" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bk494ae9e5241ab7af05680895467c52e1" 
+firstLine="SIP/2.0 200 OK" 
+callId="nist-sip-im-message-callId3" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 200 OK
+From: <sip:frei2@ethz.ch>;tag=4839
+To: <sip:frei@ethz.ch>;tag=3e480bac0ef94c7a95a6abbcc074bbaa
+Call-ID: nist-sip-im-message-callId3
+CSeq: 1 MESSAGE
+Record-Route: <sip:129.132.130.127:5060>
+Contact: <sip:129.132.130.142:9496>
+User-Agent: RTC/1.2
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK494ae9e5241ab7af05680895467c52e1
+Content-Length: 0
+
+]]>
+</message>
+

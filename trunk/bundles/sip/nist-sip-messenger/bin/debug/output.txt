@@ -1,0 +1,1699 @@
+DebugIM, Parsing XML buddies
+DebugIM, XML buddies parsed successfully!!!
+DebugIM, BuddyList, init(), There are 1 buddies to upload.
+DebugIM, BuddyList, init(), we uploaded sip:mranga@nist.gov to the buddy List.
+DebugIM, XMLAuthenticationParser, startDocument():  Parsing XML passwords file
+DebugIM, XMLAuthenticationParser, endDocument():  XML passwords file parsed successfully!!!
+DebugIM, the stack address is set to: 127.0.0.1
+DebugIM, the outbound proxy is set to: 127.0.0.1:4000/udp
+DebugIM, one listening point created: port:5070,  transport:udp
+DebugIM, Instant Messaging user agent ready to work
+
+*************************************************
+
+
+process REGISTER (SignIn) in progress for : sip:frei@sip.ethz.ch
+REGISTER sent:
+REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=4058
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK78da3dd1cd03488813b7711a136e92ba
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+
+
+Response 500 Server Internal Error :
+SIP/2.0 500 Server Internal Error
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=4058
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK78da3dd1cd03488813b7711a136e92ba
+Max-Forwards: 10
+Content-Length: 0
+
+
+
+process REGISTER (SignIn) in progress for : sip:frei@sip.ethz.ch
+REGISTER sent:
+REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=6779
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK2220a9081e94531d0ef85403b5a26f2a
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+
+
+Response 500 Server Internal Error :
+SIP/2.0 500 Server Internal Error
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=6779
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK2220a9081e94531d0ef85403b5a26f2a
+Max-Forwards: 10
+Content-Length: 0
+
+
+
+process REGISTER (SignIn) in progress for : sip:frei@sip.ethz.ch
+REGISTER sent:
+REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=3437
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKdf5975a4976f7578b65a8bc43b2f6daa
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+
+
+Response 500 Server Internal Error :
+SIP/2.0 500 Server Internal Error
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=3437
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKdf5975a4976f7578b65a8bc43b2f6daa
+Max-Forwards: 10
+Content-Length: 0
+
+
+
+process REGISTER (SignIn) in progress for : sip:frei@sip.ethz.ch
+REGISTER sent:
+REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId4
+CSeq: 4 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=4940
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK0b7373c3fbd6876bd28eca71a8913b44
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+
+
+Response 500 Server Internal Error :
+SIP/2.0 500 Server Internal Error
+Call-ID: nist-sip-im-register-callId4
+CSeq: 4 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=4940
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK0b7373c3fbd6876bd28eca71a8913b44
+Max-Forwards: 10
+Content-Length: 0
+
+
+
+process REGISTER (SignIn) in progress for : sip:frei@sip.ethz.ch
+REGISTER sent:
+REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId5
+CSeq: 5 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=4955
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK47783853c6de6e28983126f1e6549eeb
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+
+
+Response 500 Server Internal Error :
+SIP/2.0 500 Server Internal Error
+Call-ID: nist-sip-im-register-callId5
+CSeq: 5 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=4955
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK47783853c6de6e28983126f1e6549eeb
+Max-Forwards: 10
+Content-Length: 0
+
+
+
+process REGISTER (SignIn) in progress for : sip:frei@sip.ethz.ch
+REGISTER sent:
+REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId6
+CSeq: 6 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=1006
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK2ecf2d3cc8114262aff4055555ced5de
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+
+
+Response 500 Server Internal Error :
+SIP/2.0 500 Server Internal Error
+Call-ID: nist-sip-im-register-callId6
+CSeq: 6 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=1006
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK2ecf2d3cc8114262aff4055555ced5de
+Max-Forwards: 10
+Content-Length: 0
+
+
+
+process REGISTER (SignIn) in progress for : sip:frei@sip.ethz.ch
+REGISTER sent:
+REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId7
+CSeq: 7 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=5887
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK8fd133dabd58b4f67476c6f789978593
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+
+
+Response 500 Server Internal Error :
+SIP/2.0 500 Server Internal Error
+Call-ID: nist-sip-im-register-callId7
+CSeq: 7 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=5887
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK8fd133dabd58b4f67476c6f789978593
+Max-Forwards: 10
+Content-Length: 0
+
+
+DebugIM, writeFile(),  unable to write, the file:/gov/nist/sip/instantmessaging/configuration/im.properties is missing.
+
+***************** RESTARTING ****************************
+
+One listening point removed!
+IM user agent stopped
+DebugIM, InstantMessagingGUI, we upload the properties from the file:/gov/nist/sip/instantmessaging/configuration/im.properties
+DebugIM, InstantMessagingGUI, properties uploaded.
+DebugIM, Parsing XML buddies
+DebugIM, XML buddies parsed successfully!!!
+DebugIM, BuddyList, init(), There are 1 buddies to upload.
+DebugIM, BuddyList, init(), we uploaded sip:mranga@nist.gov to the buddy List.
+DebugIM, BuddyList, hasBuddy(), the buddy is in the list
+DebugIM, XMLAuthenticationParser, startDocument():  Parsing XML passwords file
+DebugIM, XMLAuthenticationParser, endDocument():  XML passwords file parsed successfully!!!
+DebugIM, the stack address is set to: 127.0.0.1
+DebugIM, the outbound proxy is set to: 127.0.0.1:4000/udp
+DebugIM, one listening point created: port:5070,  transport:udp
+DebugIM, Instant Messaging user agent ready to work
+
+*************************************************
+
+
+process REGISTER (SignIn) in progress for : sip:frei@sip.ethz.ch
+REGISTER sent:
+REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId8
+CSeq: 8 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=7499
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK56076713d602facccb77d07265640182
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+
+
+Response 500 Server Internal Error :
+SIP/2.0 500 Server Internal Error
+Call-ID: nist-sip-im-register-callId8
+CSeq: 8 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=7499
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK56076713d602facccb77d07265640182
+Max-Forwards: 10
+Content-Length: 0
+
+
+
+process REGISTER (SignIn) in progress for : sip:frei@sip.ethz.ch
+REGISTER sent:
+REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId9
+CSeq: 9 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=7682
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKc1d312b234aa1b4acdb4656b21f786c3
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+
+
+Response 500 Server Internal Error :
+SIP/2.0 500 Server Internal Error
+Call-ID: nist-sip-im-register-callId9
+CSeq: 9 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=7682
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKc1d312b234aa1b4acdb4656b21f786c3
+Max-Forwards: 10
+Content-Length: 0
+
+
+DebugIM, Parsing XML buddies
+DebugIM, XML buddies parsed successfully!!!
+DebugIM, BuddyList, init(), There are 1 buddies to upload.
+DebugIM, BuddyList, init(), we uploaded sip:mranga@nist.gov to the buddy List.
+DebugIM, XMLAuthenticationParser, startDocument():  Parsing XML passwords file
+DebugIM, XMLAuthenticationParser, endDocument():  XML passwords file parsed successfully!!!
+DebugIM, the stack address is set to: 127.0.0.1
+DebugIM, the outbound proxy is set to: 127.0.0.1:4000/udp
+DebugIM, one listening point created: port:5070,  transport:udp
+DebugIM, Instant Messaging user agent ready to work
+
+*************************************************
+
+
+process REGISTER (SignIn) in progress for : sip:frei@sip.ethz.ch
+REGISTER sent:
+REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=4488
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKd101498e061137af9ece55b751111ed5
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+
+
+Response 500 Server Internal Error :
+SIP/2.0 500 Server Internal Error
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=4488
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKd101498e061137af9ece55b751111ed5
+Max-Forwards: 10
+Content-Length: 0
+
+
+
+process REGISTER (SignIn) in progress for : sip:frei@ethz.ch
+REGISTER sent:
+REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei@ethz.ch>;tag=9807
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK7ed76fec418d36b147df1bb34df1f531
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+
+
+Response 200 OK :
+SIP/2.0 200 OK
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei@ethz.ch>;tag=9807
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK7ed76fec418d36b147df1bb34df1f531
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>;expires=3600
+Content-Length: 0
+
+
+process OK for REGISTER (to signIn) in progress
+processing done: signed In
+DebugIM, IMSubscribeProcessing, sendSubscribeToAllPresentities(), we have to subscribe to our buddies: let's send a SUBSCRIBE for each ones.
+
+Sending SUBSCRIBE in progress to the buddy: sip:mranga@nist.gov
+IMSubscribeProcessing, sendSubscribe(), SUBSCRIBE sent:
+SUBSCRIBE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-subscribe-callId1
+CSeq: 1 SUBSCRIBE
+From: <sip:frei@ethz.ch>;tag=139
+To: <sip:mranga@nist.gov>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKc0a7bfed10fa671daf0117fec375d9ea
+Max-Forwards: 70
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Expires: 3600
+Event:  presence
+Accept: application/pidf+xml
+Content-Length: 0
+
+
+DEBUG, IMNotifyProcessing, sendNotifyToAllSuscribers(), we have to notify our SUBSCRIBERS: let's send a NOTIFY for each one of them (subscribersList: 0)!!!
+
+Sending PUBLISH in progress
+
+
+Response 480 Temporarily Unavailable :
+SIP/2.0 480 Temporarily Unavailable
+Call-ID: nist-sip-im-subscribe-callId1
+CSeq: 1 SUBSCRIBE
+From: <sip:frei@ethz.ch>;tag=139
+To: <sip:mranga@nist.gov>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKc0a7bfed10fa671daf0117fec375d9ea
+Max-Forwards: 70
+Content-Length: 0
+
+
+DEBUG, IMUtilities, getKey(), the key is: sip:frei2@ethz.ch
+Checking for an active chat session with sip:frei2@ethz.ch :
+No active session
+*****************************************************
+Active chat sessions:
+    buddy : sip:frei2@ethz.ch
+*****************************************************
+
+IMMessageProcessing, processMEssage(), ChatSession:gov.nist.sip.instantmessaging.ChatSession@29ac
+Processing MESSAGE in progress...
+The Session does not exists yet. 
+OK replied to the MESSAGE:
+SIP/2.0 200 OK
+Call-ID: nist-sip-im-message-callId1
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=9271
+To: <sip:frei@ethz.ch>;tag=4197
+Via: SIP/2.0/UDP 127.0.0.1:4000;branch=z9hG4bKa184419c06696abf7c25e0b066a87172,SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bKb6e55005ca4fa916454d7a87ba8e5bfd
+Max-Forwards: 69
+Record-Route: <sip:127.0.0.1:4000>
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Content-Length: 0
+
+
+The DIALOG object has been stored in the ChatSession
+DEBUG, IMUtilities, getKey(), the key is: sip:frei2@ethz.ch
+Checking for an active chat session with sip:frei2@ethz.ch :
+active session found
+IMMessageProcessing, processMEssage(), ChatSession:gov.nist.sip.instantmessaging.ChatSession@29ac
+Processing MESSAGE in progress...
+The Session already exists
+OK replied to the MESSAGE:
+SIP/2.0 200 OK
+Call-ID: nist-sip-im-message-callId1
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=9271
+To: <sip:frei@ethz.ch>;tag=4945
+Via: SIP/2.0/UDP 127.0.0.1:4000;branch=z9hG4bK9a235eeb524e08ab5eb5f7f90729f04f,SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bKb6e55005ca4fa916454d7a87ba8e5bfd
+Max-Forwards: 69
+Record-Route: <sip:127.0.0.1:4000>
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Content-Length: 0
+
+
+Closing ChatSession....
+Closed ChatSession....
+
+Sending PUBLISH in progress
+
+process REGISTER (SignOut) in progress for sip:frei@ethz.ch
+REGISTER sent:
+REGISTER sip:127.0.0.1:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei@ethz.ch>;tag=8151
+To: <sip:frei@ethz.ch>;tag=7426
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK70a9fc25cdaac289723aaa48e5dc32f7
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Expires: 0
+Content-Length: 0
+
+
+
+
+
+Response 200 OK :
+SIP/2.0 200 OK
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei@ethz.ch>;tag=8151
+To: <sip:frei@ethz.ch>;tag=7426
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK70a9fc25cdaac289723aaa48e5dc32f7
+Max-Forwards: 10
+Content-Length: 0
+
+
+Dropping OK retransmission for REGISTER, we are already logged in.
+
+
+Response 480 Temporarily Unavailable :
+SIP/2.0 480 Temporarily Unavailable
+Call-ID: 0frei@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei@ethz.ch>;tag=6581
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKffa8ff8a2e65ce6447a5fcca722561e3
+Max-Forwards: 70
+Content-Length: 0
+
+
+DEBUG, IMUtilities, getKey(), the key is: sip:frei@ethz.ch
+Checking for an active chat session with sip:frei@ethz.ch :
+No active session
+
+Sending PUBLISH in progress
+
+process REGISTER (SignOut) in progress for sip:frei@ethz.ch
+REGISTER sent:
+REGISTER sip:127.0.0.1:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId4
+CSeq: 4 REGISTER
+From: <sip:frei@ethz.ch>;tag=5663
+To: <sip:frei@ethz.ch>;tag=3856
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK16f724187cf33332b7b09e4f38aefa52
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Expires: 0
+Content-Length: 0
+
+
+
+
+
+Response 200 OK :
+SIP/2.0 200 OK
+Call-ID: nist-sip-im-register-callId4
+CSeq: 4 REGISTER
+From: <sip:frei@ethz.ch>;tag=5663
+To: <sip:frei@ethz.ch>;tag=3856
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK16f724187cf33332b7b09e4f38aefa52
+Max-Forwards: 10
+Content-Length: 0
+
+
+Dropping OK retransmission for REGISTER, we are already logged in.
+
+
+Response 480 Temporarily Unavailable :
+SIP/2.0 480 Temporarily Unavailable
+Call-ID: 0frei@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei@ethz.ch>;tag=8481
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK48d0fa7b335f4b2ccea705e47d191a4f
+Max-Forwards: 70
+Content-Length: 0
+
+
+DEBUG, IMUtilities, getKey(), the key is: sip:frei@ethz.ch
+Checking for an active chat session with sip:frei@ethz.ch :
+No active session
+One listening point removed!
+IM user agent stopped
+DebugIM, writeFile(),  unable to write, the file:/gov/nist/sip/instantmessaging/configuration/buddies.xml is missing.
+DebugIM, Parsing XML buddies
+DebugIM, XML buddies parsed successfully!!!
+DebugIM, BuddyList, init(), There are 1 buddies to upload.
+DebugIM, BuddyList, init(), we uploaded sip:mranga@nist.gov to the buddy List.
+DebugIM, XMLAuthenticationParser, startDocument():  Parsing XML passwords file
+DebugIM, XMLAuthenticationParser, endDocument():  XML passwords file parsed successfully!!!
+DebugIM, the stack address is set to: 127.0.0.1
+DebugIM, the outbound proxy is set to: 127.0.0.1:4000/udp
+DebugIM, one listening point created: port:5070,  transport:udp
+DebugIM, Instant Messaging user agent ready to work
+
+*************************************************
+
+
+process REGISTER (SignIn) in progress for : sip:frei@ethz.ch
+REGISTER sent:
+REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei@ethz.ch>;tag=2687
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK8cce646353e9058de3cfe5bfc379b6a7
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+
+process REGISTER (SignIn) in progress for : sip:frei@ethz.ch
+REGISTER sent:
+REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei@ethz.ch>;tag=9875
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKefa9eea66773b06f911f7b1a36ac05a8
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+
+process REGISTER (SignIn) in progress for : sip:frei@ethz.ch
+REGISTER sent:
+REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei@ethz.ch>;tag=2349
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK0d8fcc5f5d6520037ed1a3b73d2ec7c4
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+
+process REGISTER (SignIn) in progress for : sip:frei2@ethz.ch
+REGISTER sent:
+REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId4
+CSeq: 4 REGISTER
+From: <sip:frei2@ethz.ch>;tag=5180
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKfd6d4dec09ab8fb8322ad884a8b90ef5
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+
+process REGISTER (SignIn) in progress for : sip:frei2@ethz.ch
+REGISTER sent:
+REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId5
+CSeq: 5 REGISTER
+From: <sip:frei2@ethz.ch>;tag=9011
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb575494b403d26a9550bd4f0325f653f
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+One listening point removed!
+IM user agent stopped
+DebugIM, writeFile(),  unable to write, the file:/gov/nist/sip/instantmessaging/configuration/buddies.xml is missing.
+DebugIM, Parsing XML buddies
+DebugIM, XML buddies parsed successfully!!!
+DebugIM, BuddyList, init(), There are 1 buddies to upload.
+DebugIM, BuddyList, init(), we uploaded sip:mranga@nist.gov to the buddy List.
+DebugIM, XMLAuthenticationParser, startDocument():  Parsing XML passwords file
+DebugIM, XMLAuthenticationParser, endDocument():  XML passwords file parsed successfully!!!
+DebugIM, the stack address is set to: 127.0.0.1
+DebugIM, the outbound proxy is set to: 127.0.0.1:4000/udp
+DebugIM, one listening point created: port:5070,  transport:udp
+DebugIM, Instant Messaging user agent ready to work
+
+*************************************************
+
+
+process REGISTER (SignIn) in progress for : sip:frei2@ethz.ch
+REGISTER sent:
+REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7855
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb935036adea85e4bdbd8d17bcc828ac9
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+
+process REGISTER (SignIn) in progress for : sip:frei2@ethz.ch
+REGISTER sent:
+REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7562
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK7fd397c03f62644299ae8cd42905cabd
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+
+process REGISTER (SignIn) in progress for : sip:frei2@ethz.ch
+REGISTER sent:
+REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei2@ethz.ch>;tag=1272
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK6763c7f3f41d32816182535a68173fef
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+DebugIM, writeFile(),  unable to write, the file:/gov/nist/sip/instantmessaging/configuration/im.properties is missing.
+
+***************** RESTARTING ****************************
+
+One listening point removed!
+IM user agent stopped
+DebugIM, InstantMessagingGUI, we upload the properties from the file:/gov/nist/sip/instantmessaging/configuration/im.properties
+DebugIM, InstantMessagingGUI, properties uploaded.
+DebugIM, Parsing XML buddies
+DebugIM, XML buddies parsed successfully!!!
+DebugIM, BuddyList, init(), There are 1 buddies to upload.
+DebugIM, BuddyList, init(), we uploaded sip:mranga@nist.gov to the buddy List.
+DebugIM, BuddyList, hasBuddy(), the buddy is in the list
+DebugIM, XMLAuthenticationParser, startDocument():  Parsing XML passwords file
+DebugIM, XMLAuthenticationParser, endDocument():  XML passwords file parsed successfully!!!
+DebugIM, the stack address is set to: 127.0.0.1
+DebugIM, the outbound proxy is set to: 127.0.0.1:4000/udp
+DebugIM, one listening point created: port:5070,  transport:udp
+DebugIM, Instant Messaging user agent ready to work
+
+*************************************************
+
+
+process REGISTER (SignIn) in progress for : sip:frei@sip.ethz.ch
+REGISTER sent:
+REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId4
+CSeq: 4 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=534
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK69059f1c838fbbd88c7fc7539fda2199
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+
+process REGISTER (SignIn) in progress for : sip:frei@sip.ethz.ch
+REGISTER sent:
+REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId5
+CSeq: 5 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=6848
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKe39ed55abfe2e6024b6afe11e6025704
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+One listening point removed!
+IM user agent stopped
+DebugIM, writeFile(),  unable to write, the file:/gov/nist/sip/instantmessaging/configuration/buddies.xml is missing.
+DebugIM, Parsing XML buddies
+DebugIM, XML buddies parsed successfully!!!
+DebugIM, BuddyList, init(), There are 1 buddies to upload.
+DebugIM, BuddyList, init(), we uploaded sip:mranga@nist.gov to the buddy List.
+DebugIM, XMLAuthenticationParser, startDocument():  Parsing XML passwords file
+DebugIM, XMLAuthenticationParser, endDocument():  XML passwords file parsed successfully!!!
+DebugIM, the stack address is set to: 127.0.0.1
+DebugIM, the outbound proxy is set to: 127.0.0.1:4000/udp
+DebugIM, one listening point created: port:5070,  transport:udp
+DebugIM, Instant Messaging user agent ready to work
+
+*************************************************
+
+
+process REGISTER (SignIn) in progress for : sip:frei2@ethz.ch
+REGISTER sent:
+REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7495
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK8af6a455bd2935a362829a1e4e381b75
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+
+process REGISTER (SignIn) in progress for : sip:frei2@ethz.ch
+REGISTER sent:
+REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei2@ethz.ch>;tag=8796
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKcd5c6311b93ec897eaa0efae7b13bc18
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+DebugIM, writeFile(),  unable to write, the file:/gov/nist/sip/instantmessaging/configuration/im.properties is missing.
+
+***************** RESTARTING ****************************
+
+One listening point removed!
+IM user agent stopped
+DebugIM, InstantMessagingGUI, we upload the properties from the file:/gov/nist/sip/instantmessaging/configuration/im.properties
+DebugIM, InstantMessagingGUI, properties uploaded.
+DebugIM, Parsing XML buddies
+DebugIM, XML buddies parsed successfully!!!
+DebugIM, BuddyList, init(), There are 1 buddies to upload.
+DebugIM, BuddyList, init(), we uploaded sip:mranga@nist.gov to the buddy List.
+DebugIM, BuddyList, hasBuddy(), the buddy is in the list
+DebugIM, XMLAuthenticationParser, startDocument():  Parsing XML passwords file
+DebugIM, XMLAuthenticationParser, endDocument():  XML passwords file parsed successfully!!!
+DebugIM, the stack address is set to: 127.0.0.1
+DebugIM, the outbound proxy is set to: 127.0.0.1:4000/udp
+DebugIM, one listening point created: port:5070,  transport:udp
+DebugIM, Instant Messaging user agent ready to work
+
+*************************************************
+
+
+process REGISTER (SignIn) in progress for : sip:frei@sip.ethz.ch
+REGISTER sent:
+REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=352
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb84653a672b16d1e038cc2ada58e125d
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+
+process REGISTER (SignIn) in progress for : sip:frei@sip.ethz.ch
+REGISTER sent:
+REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId4
+CSeq: 4 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=2587
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK785055ac1d088d3e9588873d650cf591
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+
+process REGISTER (SignIn) in progress for : sip:frei@sip.ethz.ch
+REGISTER sent:
+REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId5
+CSeq: 5 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=2512
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK6809182485bf877f7827abc66369c5a8
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+
+process REGISTER (SignIn) in progress for : sip:frei@sip.ethz.ch
+REGISTER sent:
+REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId6
+CSeq: 6 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=9548
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKac958a11083cea2eb3ab73c09e1f00b4
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+
+process REGISTER (SignIn) in progress for : sip:frei2@ethz.ch
+REGISTER sent:
+REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId7
+CSeq: 7 REGISTER
+From: <sip:frei2@ethz.ch>;tag=6062
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK0fbb4a72edaff903e2161615cb2492a2
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+
+process REGISTER (SignIn) in progress for : sip:frei2@ethz.ch
+REGISTER sent:
+REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId8
+CSeq: 8 REGISTER
+From: <sip:frei2@ethz.ch>;tag=1746
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK606662c2f4b89fb08adb81caee382af3
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+
+process REGISTER (SignIn) in progress for : sip:frei2@ethz.ch
+REGISTER sent:
+REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId9
+CSeq: 9 REGISTER
+From: <sip:frei2@ethz.ch>;tag=776
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK3acffe35124fa4cf23c6db4fcfaf68f5
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+
+process REGISTER (SignIn) in progress for : sip:frei2@ethz.ch
+REGISTER sent:
+REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId10
+CSeq: 10 REGISTER
+From: <sip:frei2@ethz.ch>;tag=9412
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKf31c22d88a925ce1e1d72e6aaa730f8f
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+
+process REGISTER (SignIn) in progress for : sip:frei2@ethz.ch
+REGISTER sent:
+REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId11
+CSeq: 11 REGISTER
+From: <sip:frei2@ethz.ch>;tag=9642
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKe7b7199a63f33d7f4eecb4a5fdd8b54a
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+
+process REGISTER (SignIn) in progress for : sip:frei2@ethz.ch
+REGISTER sent:
+REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId12
+CSeq: 12 REGISTER
+From: <sip:frei2@ethz.ch>;tag=1312
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb6c2dd0dd9efe9929009f69729ef73f9
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+
+process REGISTER (SignIn) in progress for : sip:frei2@ethz.ch
+REGISTER sent:
+REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId13
+CSeq: 13 REGISTER
+From: <sip:frei2@ethz.ch>;tag=1243
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bKb1b3c4307c8444e498daf6345a5a6b54
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+
+process REGISTER (SignIn) in progress for : sip:frei2@ethz.ch
+REGISTER sent:
+REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId14
+CSeq: 14 REGISTER
+From: <sip:frei2@ethz.ch>;tag=2846
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK6f19d59476029811acd29505a5e1dcaa
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+
+process REGISTER (SignIn) in progress for : sip:frei2@ethz.ch
+REGISTER sent:
+REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId15
+CSeq: 15 REGISTER
+From: <sip:frei2@ethz.ch>;tag=3858
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK6de0481dc48adf14a28324c62f1bc888
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+DebugIM, writeFile(),  unable to write, the file:/gov/nist/sip/instantmessaging/configuration/im.properties is missing.
+
+***************** RESTARTING ****************************
+
+One listening point removed!
+IM user agent stopped
+DebugIM, InstantMessagingGUI, we upload the properties from the file:/gov/nist/sip/instantmessaging/configuration/im.properties
+DebugIM, InstantMessagingGUI, properties uploaded.
+DebugIM, Parsing XML buddies
+DebugIM, XML buddies parsed successfully!!!
+DebugIM, BuddyList, init(), There are 1 buddies to upload.
+DebugIM, BuddyList, init(), we uploaded sip:mranga@nist.gov to the buddy List.
+DebugIM, BuddyList, hasBuddy(), the buddy is in the list
+DebugIM, XMLAuthenticationParser, startDocument():  Parsing XML passwords file
+DebugIM, XMLAuthenticationParser, endDocument():  XML passwords file parsed successfully!!!
+DebugIM, the stack address is set to: 127.0.0.1
+DebugIM, the outbound proxy is set to: 127.0.0.1:4000/udp
+DebugIM, one listening point created: port:5070,  transport:udp
+DebugIM, Instant Messaging user agent ready to work
+
+*************************************************
+
+
+process REGISTER (SignIn) in progress for : sip:frei@sip.ethz.ch
+REGISTER sent:
+REGISTER sip:sip.ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId16
+CSeq: 16 REGISTER
+From: <sip:frei@sip.ethz.ch>;tag=3014
+To: <sip:frei@sip.ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5070;branch=z9hG4bK23622a552e28e4652086a8b43b00108a
+Max-Forwards: 10
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+DebugIM, writeFile(),  unable to write, the file:/gov/nist/sip/instantmessaging/configuration/im.properties is missing.
+
+***************** RESTARTING ****************************
+
+One listening point removed!
+IM user agent stopped
+DebugIM, InstantMessagingGUI, we upload the properties from the file:/gov/nist/sip/instantmessaging/configuration/im.properties
+DebugIM, InstantMessagingGUI, properties uploaded.
+DebugIM, Parsing XML buddies
+DebugIM, XML buddies parsed successfully!!!
+DebugIM, BuddyList, init(), There are 1 buddies to upload.
+DebugIM, BuddyList, init(), we uploaded sip:mranga@nist.gov to the buddy List.
+DebugIM, BuddyList, hasBuddy(), the buddy is in the list
+DebugIM, XMLAuthenticationParser, startDocument():  Parsing XML passwords file
+DebugIM, XMLAuthenticationParser, endDocument():  XML passwords file parsed successfully!!!
+DebugIM, the stack address is set to: 127.0.0.1
+DebugIM, the outbound proxy is set to: 127.0.0.1:4000/udp
+DebugIM, one listening point created: port:5070,  transport:udp
+DebugIM, Instant Messaging user agent ready to work
+
+*************************************************
+
+One listening point removed!
+IM user agent stopped
+DebugIM, writeFile(),  unable to write, the file:/gov/nist/sip/instantmessaging/configuration/buddies.xml is missing.
+DebugIM, Parsing XML buddies
+DebugIM, XML buddies parsed successfully!!!
+DebugIM, BuddyList, init(), There are 1 buddies to upload.
+DebugIM, BuddyList, init(), we uploaded sip:mranga@nist.gov to the buddy List.
+DebugIM, XMLAuthenticationParser, startDocument():  Parsing XML passwords file
+DebugIM, XMLAuthenticationParser, endDocument():  XML passwords file parsed successfully!!!
+DebugIM, the stack address is set to: 129.132.130.127
+DebugIM, the outbound proxy is set to: 129.132.130.127:4000/udp
+DebugIM, one listening point created: port:5070,  transport:udp
+DebugIM, Instant Messaging user agent ready to work
+
+*************************************************
+
+
+process REGISTER (SignIn) in progress for : sip:frei2@ethz.ch
+REGISTER sent:
+REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7589
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bKdd4be8704c988233d5d8aaf224fee5b8
+Max-Forwards: 10
+Contact: <sip:129.132.130.127:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+
+
+Response 200 OK :
+SIP/2.0 200 OK
+Call-ID: nist-sip-im-register-callId1
+CSeq: 1 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7589
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bKdd4be8704c988233d5d8aaf224fee5b8
+Max-Forwards: 10
+Contact: <sip:129.132.130.127:5070;transport=udp>;expires=3600
+Content-Length: 0
+
+
+process OK for REGISTER (to signIn) in progress
+processing done: signed In
+DebugIM, IMSubscribeProcessing, sendSubscribeToAllPresentities(), we have to subscribe to our buddies: let's send a SUBSCRIBE for each ones.
+
+Sending SUBSCRIBE in progress to the buddy: sip:mranga@nist.gov
+IMSubscribeProcessing, sendSubscribe(), SUBSCRIBE sent:
+SUBSCRIBE sip:129.132.130.127:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-subscribe-callId1
+CSeq: 1 SUBSCRIBE
+From: <sip:frei2@ethz.ch>;tag=4089
+To: <sip:mranga@nist.gov>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK3b7b87def7fc6306b415c627ee48402c
+Max-Forwards: 70
+Contact: <sip:129.132.130.127:5070;transport=udp>
+Expires: 3600
+Event:  presence
+Accept: application/pidf+xml
+Content-Length: 0
+
+
+DEBUG, IMNotifyProcessing, sendNotifyToAllSuscribers(), we have to notify our SUBSCRIBERS: let's send a NOTIFY for each one of them (subscribersList: 0)!!!
+
+Sending PUBLISH in progress
+
+
+Response 480 Temporarily Unavailable :
+SIP/2.0 480 Temporarily Unavailable
+Call-ID: nist-sip-im-subscribe-callId1
+CSeq: 1 SUBSCRIBE
+From: <sip:frei2@ethz.ch>;tag=4089
+To: <sip:mranga@nist.gov>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK3b7b87def7fc6306b415c627ee48402c
+Max-Forwards: 70
+Content-Length: 0
+
+
+Checking for an active chat session with sip:frei@ethz.ch :
+No active session
+*****************************************************
+Active chat sessions:
+    buddy : sip:frei@ethz.ch
+*****************************************************
+
+IMMessageProcessing, ChatSession:gov.nist.sip.instantmessaging.ChatSession@106daba
+Sending a MESSAGE in progress to sip:frei@ethz.ch
+DEBUG, IMMessageProcessing, sendMessage(), the  session has not been established yet! We create the first message
+IMessageProcessing, sendMessage(), MESSAGE sent using a new client transaction:
+MESSAGE sip:129.132.130.127:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId1
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=3123
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bKb57c1fe440dd232e1a44fe169cac7560
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:129.132.130.127:5070;transport=udp>
+Content-Length: 5
+
+hallo
+
+
+Response 200 OK :
+SIP/2.0 200 OK
+From: <sip:frei2@ethz.ch>;tag=3123
+To: <sip:frei@ethz.ch>;tag=06b9b646c5a848eeb0e95269d0f63647
+Call-ID: nist-sip-im-message-callId1
+CSeq: 1 MESSAGE
+Record-Route: <sip:129.132.130.127:5060>
+Contact: <sip:129.132.130.142:9496>
+User-Agent: RTC/1.2
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bKb57c1fe440dd232e1a44fe169cac7560
+Content-Length: 0
+
+
+Processing OK for MESSAGE in progress...
+DEBUG, IMUtilities, getKey(), the key is: sip:frei@ethz.ch
+Checking for an active chat session with sip:frei@ethz.ch :
+active session found
+DEBUG, IMMessageProcessing, we mark the  session established
+Processing OK for MESSAGE completed...
+Closing ChatSession....
+Closed ChatSession....
+
+Sending PUBLISH in progress
+
+process REGISTER (SignOut) in progress for sip:frei2@ethz.ch
+REGISTER sent:
+REGISTER sip:129.132.130.127:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7383
+To: <sip:frei2@ethz.ch>;tag=6939
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK189e67bfe10895fe2db5225b355adad0
+Max-Forwards: 10
+Contact: <sip:129.132.130.127:5070;transport=udp>
+Expires: 0
+Content-Length: 0
+
+
+
+
+
+Response 200 OK :
+SIP/2.0 200 OK
+Call-ID: nist-sip-im-register-callId2
+CSeq: 2 REGISTER
+From: <sip:frei2@ethz.ch>;tag=7383
+To: <sip:frei2@ethz.ch>;tag=6939
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK189e67bfe10895fe2db5225b355adad0
+Max-Forwards: 10
+Expires: 0
+Content-Length: 0
+
+
+process OK for REGISTER (to signOut) in progress
+processing done: signed Out
+DEBUG, IMNotifyProcessing, sendNotifyToAllSuscribers(), we have to notify our SUBSCRIBERS: let's send a NOTIFY for each one of them (subscribersList: 0)!!!
+BuddyList, changeBuddyStatus(), the status (offline) is already the same for the buddy: sip:mranga@nist.gov, we do nothing!!!
+
+
+Response 480 Temporarily Unavailable :
+SIP/2.0 480 Temporarily Unavailable
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=8664
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK003a531ca431fa9e57b7db3783ca4ea5
+Max-Forwards: 70
+Content-Length: 0
+
+
+DEBUG, IMUtilities, getKey(), the key is: sip:frei2@ethz.ch
+Checking for an active chat session with sip:frei2@ethz.ch :
+No active session
+
+process REGISTER (SignIn) in progress for : sip:frei2@ethz.ch
+REGISTER sent:
+REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei2@ethz.ch>;tag=6014
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK8af1656e341c689f442bad445080a673
+Max-Forwards: 10
+Contact: <sip:129.132.130.127:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+
+
+Response 200 OK :
+SIP/2.0 200 OK
+Call-ID: nist-sip-im-register-callId3
+CSeq: 3 REGISTER
+From: <sip:frei2@ethz.ch>;tag=6014
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK8af1656e341c689f442bad445080a673
+Max-Forwards: 10
+Contact: <sip:129.132.130.127:5070;transport=udp>;expires=3600
+Content-Length: 0
+
+
+process OK for REGISTER (to signIn) in progress
+processing done: signed In
+DebugIM, IMSubscribeProcessing, sendSubscribeToAllPresentities(), we have to subscribe to our buddies: let's send a SUBSCRIBE for each ones.
+
+Sending SUBSCRIBE in progress to the buddy: sip:mranga@nist.gov
+IMSubscribeProcessing, sendSubscribe(), SUBSCRIBE sent:
+SUBSCRIBE sip:129.132.130.127:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-subscribe-callId2
+CSeq: 1 SUBSCRIBE
+From: <sip:frei2@ethz.ch>;tag=2900
+To: <sip:mranga@nist.gov>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bKd7f16548308af9a4e0f5121225d19dc9
+Max-Forwards: 70
+Contact: <sip:129.132.130.127:5070;transport=udp>
+Expires: 3600
+Event:  presence
+Accept: application/pidf+xml
+Content-Length: 0
+
+
+DEBUG, IMNotifyProcessing, sendNotifyToAllSuscribers(), we have to notify our SUBSCRIBERS: let's send a NOTIFY for each one of them (subscribersList: 0)!!!
+
+Sending PUBLISH in progress
+
+
+Response 480 Temporarily Unavailable :
+SIP/2.0 480 Temporarily Unavailable
+Call-ID: nist-sip-im-subscribe-callId2
+CSeq: 1 SUBSCRIBE
+From: <sip:frei2@ethz.ch>;tag=2900
+To: <sip:mranga@nist.gov>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bKd7f16548308af9a4e0f5121225d19dc9
+Max-Forwards: 70
+Content-Length: 0
+
+
+DEBUG, ListenerInstantMessaging,  addContactActionPerformed(), WE are going to send a SUBSCRIBE...
+
+Sending SUBSCRIBE in progress to the buddy: sip:frei@ethz.ch
+IMSubscribeProcessing, sendSubscribe(), SUBSCRIBE sent:
+SUBSCRIBE sip:129.132.130.127:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-subscribe-callId3
+CSeq: 1 SUBSCRIBE
+From: <sip:frei2@ethz.ch>;tag=1572
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK51554df5c71230e2a5e45b502ba4b4f5
+Max-Forwards: 70
+Contact: <sip:129.132.130.127:5070;transport=udp>
+Expires: 3600
+Event:  presence
+Accept: application/pidf+xml
+Content-Length: 0
+
+
+
+
+Response 406 Not Acceptable :
+SIP/2.0 406 Not Acceptable
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK51554df5c71230e2a5e45b502ba4b4f5
+From: <sip:frei2@ethz.ch>;tag=1572
+To: <sip:frei@ethz.ch>;tag=a091bfc10e9740158c507e9675fb3d91
+Call-ID: nist-sip-im-subscribe-callId3
+CSeq: 1 SUBSCRIBE
+User-Agent: RTC/1.2
+Content-Length: 0
+
+
+
+Sending PUBLISH in progress
+
+process REGISTER (SignOut) in progress for sip:frei2@ethz.ch
+REGISTER sent:
+REGISTER sip:129.132.130.127:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId4
+CSeq: 4 REGISTER
+From: <sip:frei2@ethz.ch>;tag=9626
+To: <sip:frei2@ethz.ch>;tag=8997
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bKeecf2444895bfed479ce5e8c65a8f16b
+Max-Forwards: 10
+Contact: <sip:129.132.130.127:5070;transport=udp>
+Expires: 0
+Content-Length: 0
+
+
+
+
+
+Response 200 OK :
+SIP/2.0 200 OK
+Call-ID: nist-sip-im-register-callId4
+CSeq: 4 REGISTER
+From: <sip:frei2@ethz.ch>;tag=9626
+To: <sip:frei2@ethz.ch>;tag=8997
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bKeecf2444895bfed479ce5e8c65a8f16b
+Max-Forwards: 10
+Expires: 0
+Content-Length: 0
+
+
+process OK for REGISTER (to signOut) in progress
+processing done: signed Out
+DEBUG, IMNotifyProcessing, sendNotifyToAllSuscribers(), we have to notify our SUBSCRIBERS: let's send a NOTIFY for each one of them (subscribersList: 0)!!!
+BuddyList, changeBuddyStatus(), the status (offline) is already the same for the buddy: sip:mranga@nist.gov, we do nothing!!!
+
+
+Response 480 Temporarily Unavailable :
+SIP/2.0 480 Temporarily Unavailable
+Call-ID: 0frei2@ethz.ch
+CSeq: 1 PUBLISH
+From: <sip:frei2@ethz.ch>;tag=2987
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK00ee6849026886457c2b25a82cd95ff2
+Max-Forwards: 70
+Content-Length: 0
+
+
+DEBUG, IMUtilities, getKey(), the key is: sip:frei2@ethz.ch
+Checking for an active chat session with sip:frei2@ethz.ch :
+No active session
+
+process REGISTER (SignIn) in progress for : sip:frei2@ethz.ch
+REGISTER sent:
+REGISTER sip:ethz.ch:4000 SIP/2.0
+Call-ID: nist-sip-im-register-callId5
+CSeq: 5 REGISTER
+From: <sip:frei2@ethz.ch>;tag=6470
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bKbf620ee8ec5b6cccc10d0e0fa26a616d
+Max-Forwards: 10
+Contact: <sip:129.132.130.127:5070;transport=udp>
+Allow: INVITE, SUBSCRIBE, NOTIFY, MESSAGE, INFO, PUBLISH
+Content-Length: 0
+
+
+
+
+
+Response 200 OK :
+SIP/2.0 200 OK
+Call-ID: nist-sip-im-register-callId5
+CSeq: 5 REGISTER
+From: <sip:frei2@ethz.ch>;tag=6470
+To: <sip:frei2@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bKbf620ee8ec5b6cccc10d0e0fa26a616d
+Max-Forwards: 10
+Contact: <sip:129.132.130.127:5070;transport=udp>;expires=3600
+Content-Length: 0
+
+
+process OK for REGISTER (to signIn) in progress
+processing done: signed In
+DebugIM, IMSubscribeProcessing, sendSubscribeToAllPresentities(), we have to subscribe to our buddies: let's send a SUBSCRIBE for each ones.
+
+Sending SUBSCRIBE in progress to the buddy: sip:mranga@nist.gov
+IMSubscribeProcessing, sendSubscribe(), SUBSCRIBE sent:
+SUBSCRIBE sip:129.132.130.127:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-subscribe-callId4
+CSeq: 1 SUBSCRIBE
+From: <sip:frei2@ethz.ch>;tag=4585
+To: <sip:mranga@nist.gov>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK252c99ed228e794678f31acabfc29929
+Max-Forwards: 70
+Contact: <sip:129.132.130.127:5070;transport=udp>
+Expires: 3600
+Event:  presence
+Accept: application/pidf+xml
+Content-Length: 0
+
+
+DEBUG, IMNotifyProcessing, sendNotifyToAllSuscribers(), we have to notify our SUBSCRIBERS: let's send a NOTIFY for each one of them (subscribersList: 0)!!!
+
+Sending PUBLISH in progress
+
+
+Response 480 Temporarily Unavailable :
+SIP/2.0 480 Temporarily Unavailable
+Call-ID: nist-sip-im-subscribe-callId4
+CSeq: 1 SUBSCRIBE
+From: <sip:frei2@ethz.ch>;tag=4585
+To: <sip:mranga@nist.gov>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK252c99ed228e794678f31acabfc29929
+Max-Forwards: 70
+Content-Length: 0
+
+
+Checking for an active chat session with sip:frei@ethz.ch :
+No active session
+*****************************************************
+Active chat sessions:
+    buddy : sip:frei@ethz.ch
+*****************************************************
+
+IMMessageProcessing, ChatSession:gov.nist.sip.instantmessaging.ChatSession@102a0a5
+Sending a MESSAGE in progress to sip:frei@ethz.ch
+DEBUG, IMMessageProcessing, sendMessage(), the  session has not been established yet! We create the first message
+IMessageProcessing, sendMessage(), MESSAGE sent using a new client transaction:
+MESSAGE sip:129.132.130.127:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId2
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=9407
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK39420cd101cba13e8915ac1cb3b89a8e
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:129.132.130.127:5070;transport=udp>
+Content-Length: 11
+
+asdasdfsadf
+
+
+Response 200 OK :
+SIP/2.0 200 OK
+From: <sip:frei2@ethz.ch>;tag=9407
+To: <sip:frei@ethz.ch>;tag=7ede405a10fd4d5380096b4ce70aa00a
+Call-ID: nist-sip-im-message-callId2
+CSeq: 1 MESSAGE
+Record-Route: <sip:129.132.130.127:5060>
+Contact: <sip:129.132.130.142:9496>
+User-Agent: RTC/1.2
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK39420cd101cba13e8915ac1cb3b89a8e
+Content-Length: 0
+
+
+Processing OK for MESSAGE in progress...
+DEBUG, IMUtilities, getKey(), the key is: sip:frei@ethz.ch
+Checking for an active chat session with sip:frei@ethz.ch :
+active session found
+DEBUG, IMMessageProcessing, we mark the  session established
+Processing OK for MESSAGE completed...
+Closing ChatSession....
+Closed ChatSession....
+processRequest: 405 Method Not Allowed replied
+Processing SUBSCRIBE in progress 
+SIP/2.0 202 Accepted
+Via: SIP/2.0/UDP 129.132.130.127:5060;branch=z9hG4bK1016909f941000c86e57ac48aef30666,SIP/2.0/UDP 129.132.130.142:9496
+Max-Forwards: 69
+From: "frei@ethz.ch" <sip:frei@ethz.ch>;tag=15826ecb93ad4dada4a944bd8ecee9cd;epid=88880c3dd1
+To: <sip:frei2@ethz.ch>;tag=7858
+Call-ID: 8202ee1ecf244cd5ad6069ac2b07a556@129.132.130.142
+CSeq: 1 SUBSCRIBE
+Record-Route: <sip:129.132.130.127:5060>
+Content-Length: 0
+
+
+DEBUG, IMUtilities, getKey(), the key is: sip:frei@ethz.ch
+DEBUG, InstantMessagingGUI, getAuthorizationForBuddy(), the user has to authorize the buddy to subscribe: sip:frei@ethz.ch
+DEBUG, InstantMessagingGUI, getAuthorizationForBuddy(), the user authorization is: true
+DEBUG: SubscribeProcessing, processSubscribe(),  Response 202 Accepted sent.
+DEBUG, IMUtilities, getKey(), the key is: sip:frei@ethz.ch
+DEBUG, subscriberList, addSubscriber(), We update the subscriber: sip:frei@ethz.ch
+
+************* DEBUG subscriberList    ************************************
+************* Subscribers  record:    ************************************
+
+subscriber URL : sip:frei@ethz.ch
+
+**************************************************************************
+
+
+Sending SUBSCRIBE in progress to the buddy: sip:frei@ethz.ch
+IMSubscribeProcessing, sendSubscribe(), SUBSCRIBE sent:
+SUBSCRIBE sip:129.132.130.127:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-subscribe-callId5
+CSeq: 1 SUBSCRIBE
+From: <sip:frei2@ethz.ch>;tag=2115
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bKf9e989bead47149474267bf2c533aaaa
+Max-Forwards: 70
+Contact: <sip:129.132.130.127:5070;transport=udp>
+Expires: 3600
+Event:  presence
+Accept: application/pidf+xml
+Content-Length: 0
+
+
+DEBUG, IMNotifyProcessing, sendNotify(), We add the Subscription-State header to the request
+DEBUG, IMNotifyProcessing, sendNotify(), NOTIFY sent:
+
+NOTIFY sip:129.132.130.127:5060 SIP/2.0
+Call-ID: 8202ee1ecf244cd5ad6069ac2b07a556@129.132.130.142
+CSeq: 1 NOTIFY
+From: <sip:frei2@ethz.ch>;tag=7858
+To: "frei@ethz.ch" <sip:frei@ethz.ch>;tag=15826ecb93ad4dada4a944bd8ecee9cd
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK6f94fd01d5443c9e6c74d70be7d766d7
+Max-Forwards: 70
+Content-Type: application/xpidf+xml
+Subscription-State: active
+Event:  presence
+Route: <sip:129.132.130.142:9496>
+Content-Length: 311
+
+<?xml version="1.0"?>
+<!DOCTYPE presence
+PUBLIC "-//IETF//DTD RFCxxxx XPIDF 1.0//EN" "xpidf.dtd">
+<presence>
+<presentity uri="sip:frei@ethz.ch" />
+<atom id="nist-sipId1000" >
+<address uri="sip:129.132.130.127:5070"  >
+<status status="open" />
+<msnsubstatus substatus="online" />
+</address>
+</atom>
+</presence>
+
+
+
+Response 200 OK :
+SIP/2.0 200 OK
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK6f94fd01d5443c9e6c74d70be7d766d7
+From: <sip:frei2@ethz.ch>;tag=7858
+To: "frei@ethz.ch" <sip:frei@ethz.ch>;tag=15826ecb93ad4dada4a944bd8ecee9cd;epid=88880c3dd1
+Call-ID: 8202ee1ecf244cd5ad6069ac2b07a556@129.132.130.142
+CSeq: 1 NOTIFY
+User-Agent: RTC/1.2
+Content-Length: 0
+
+
+Processing OK received for a NOTIFY 
+OK processed!!!
+
+
+Response 406 Not Acceptable :
+SIP/2.0 406 Not Acceptable
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bKf9e989bead47149474267bf2c533aaaa
+From: <sip:frei2@ethz.ch>;tag=2115
+To: <sip:frei@ethz.ch>;tag=5d608ba2159f45beaf918dbca215eed7
+Call-ID: nist-sip-im-subscribe-callId5
+CSeq: 1 SUBSCRIBE
+User-Agent: RTC/1.2
+Content-Length: 0
+
+
+Checking for an active chat session with sip:frei@ethz.ch :
+No active session
+*****************************************************
+Active chat sessions:
+    buddy : sip:frei@ethz.ch
+*****************************************************
+
+IMMessageProcessing, ChatSession:gov.nist.sip.instantmessaging.ChatSession@162198b
+Sending a MESSAGE in progress to sip:frei@ethz.ch
+DEBUG, IMMessageProcessing, sendMessage(), the  session has not been established yet! We create the first message
+IMessageProcessing, sendMessage(), MESSAGE sent using a new client transaction:
+MESSAGE sip:129.132.130.127:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId3
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=4839
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK494ae9e5241ab7af05680895467c52e1
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:129.132.130.127:5070;transport=udp>
+Content-Length: 5
+
+hallo
+
+
+Response 100 Trying :
+SIP/2.0 100 Trying
+From: <sip:frei2@ethz.ch>;tag=4839
+To: <sip:frei@ethz.ch>;tag=3e480bac0ef94c7a95a6abbcc074bbaa
+Call-ID: nist-sip-im-message-callId3
+CSeq: 1 MESSAGE
+User-Agent: RTC/1.2
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK494ae9e5241ab7af05680895467c52e1
+Content-Length: 0
+
+
+
+
+Response 200 OK :
+SIP/2.0 200 OK
+From: <sip:frei2@ethz.ch>;tag=4839
+To: <sip:frei@ethz.ch>;tag=3e480bac0ef94c7a95a6abbcc074bbaa
+Call-ID: nist-sip-im-message-callId3
+CSeq: 1 MESSAGE
+Record-Route: <sip:129.132.130.127:5060>
+Contact: <sip:129.132.130.142:9496>
+User-Agent: RTC/1.2
+Via: SIP/2.0/UDP 129.132.130.127:5070;branch=z9hG4bK494ae9e5241ab7af05680895467c52e1
+Content-Length: 0
+
+
+Processing OK for MESSAGE in progress...
+DEBUG, IMUtilities, getKey(), the key is: sip:frei@ethz.ch
+Checking for an active chat session with sip:frei@ethz.ch :
+active session found
+DEBUG, IMMessageProcessing, we mark the  session established
+Processing OK for MESSAGE completed...
+Closing ChatSession....
+Closed ChatSession....

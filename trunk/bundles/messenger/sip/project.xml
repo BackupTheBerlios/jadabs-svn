@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+
+	<extend>${basedir}/../../../project.xml</extend>
+
+	<groupId>jadabs-im-sip</groupId>
+	<id>jadabs-im-sip</id>
+	<name>messenger sip implementation</name>
+	<artifactId>messenger-sip</artifactId>
+	<shortDescription>messenger sip implementation</shortDescription>
+	<package>ch.ethz.jadabs.im.sip</package>
+
+  	<dependencies>
+ 
+    	<dependency>
+      		<groupId>jadabs</groupId>
+      		<artifactId>log4j-cdc</artifactId>
+      		<version>${pom.currentVersion}</version>
+		</dependency>
+		 		
+    	<dependency>
+      		<groupId>jadabs</groupId>
+      		<artifactId>jxme-osgi</artifactId>
+      		<version>${pom.currentVersion}</version>
+		</dependency>
+		
+    	<dependency>
+      		<groupId>jadabs</groupId>
+      		<artifactId>jxme-services-api</artifactId>
+      		<version>${pom.currentVersion}</version>
+		</dependency>
+
+    	<dependency>
+      		<groupId>jadabs</groupId>
+      		<artifactId>sip-cons</artifactId>
+      		<version>${pom.currentVersion}</version>
+		</dependency>
+		
+		<dependency>
+      		<groupId>jadabs-im-api</groupId>
+      		<artifactId>messenger-api</artifactId>
+      		<version>${pom.currentVersion}</version>
+		</dependency>
+				
+  	</dependencies>
+
+  
+</project>
