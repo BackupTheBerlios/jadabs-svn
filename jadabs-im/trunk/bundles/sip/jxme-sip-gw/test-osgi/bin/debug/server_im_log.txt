@@ -1,0 +1,1621 @@
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= ch.ethz.jadabs.jxme.sip.RouterImpl
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= ch.ethz.jadabs.jxme.sip.RouterImpl
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= ch.ethz.jadabs.jxme.sip.RouterImpl
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= ch.ethz.jadabs.jxme.sip.RouterImpl
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= ch.ethz.jadabs.jxme.sip.RouterImpl
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= ch.ethz.jadabs.jxme.sip.RouterImpl
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= ch.ethz.jadabs.jxme.sip.RouterImpl
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= ch.ethz.jadabs.jxme.sip.RouterImpl
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= ch.ethz.jadabs.jxme.sip.RouterImpl
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= ch.ethz.jadabs.jxme.sip.RouterImpl
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= ch.ethz.jadabs.jxme.sip.RouterImpl
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= ch.ethz.jadabs.jxme.sip.RouterImpl
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= ch.ethz.jadabs.jxme.sip.RouterImpl
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= ch.ethz.jadabs.jxme.sip.RouterImpl
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= ch.ethz.jadabs.jxme.sip.RouterImpl
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= ch.ethz.jadabs.jxme.sip.RouterImpl
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= ch.ethz.jadabs.jxme.sip.RouterImpl
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= ch.ethz.jadabs.jxme.sip.RouterImpl
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= ch.ethz.jadabs.jxme.sip.RouterImpl
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= ch.ethz.jadabs.jxme.sip.RouterImpl
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= ch.ethz.jadabs.jxme.sip.RouterImpl
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= ch.ethz.jadabs.jxme.sip.RouterImpl
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= ch.ethz.jadabs.jxme.sip.RouterImpl
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= ch.ethz.jadabs.jxme.sip.RouterImpl
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= ch.ethz.jadabs.jxme.sip.RouterImpl
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= ch.ethz.jadabs.jxme.sip.RouterImpl
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= ch.ethz.jadabs.jxme.sip.RouterImpl
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= ch.ethz.jadabs.jxme.sip.RouterImpl
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= ch.ethz.jadabs.jxme.sip.RouterImpl
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= ch.ethz.jadabs.jxme.sip.RouterImpl
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= ch.ethz.jadabs.jxme.sip.RouterImpl
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= ch.ethz.jadabs.jxme.sip.RouterImpl
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4001/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= ch.ethz.jadabs.jxme.sip.RouterImpl
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101894541935" 
+isSender="true" 
+transactionId="z9hg4bkddf9e13e3ce3f4ec50e7f467e0abe409" 
+callId="nist-sip-im-message-callId1" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId1
+CSeq: 1 MESSAGE
+From: <sip:frei@ethz.ch>;tag=9863
+To: <sip:test1@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bKddf9e13e3ce3f4ec50e7f467e0abe409
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:4000" 
+to="127.0.0.1:5071" 
+time="1101894542145" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bkddf9e13e3ce3f4ec50e7f467e0abe409" 
+firstLine="SIP/2.0 480 Temporarily Unavailable" 
+callId="nist-sip-im-message-callId1" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 480 Temporarily Unavailable
+Call-ID: nist-sip-im-message-callId1
+CSeq: 1 MESSAGE
+From: <sip:frei@ethz.ch>;tag=9863
+To: <sip:test1@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bKddf9e13e3ce3f4ec50e7f467e0abe409
+Max-Forwards: 70
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= ch.ethz.jadabs.jxme.sip.RouterImpl
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101894638537" 
+isSender="true" 
+transactionId="z9hg4bkb6e55005ca4fa916454d7a87ba8e5bfd" 
+callId="nist-sip-im-message-callId1" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId1
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=9271
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bKb6e55005ca4fa916454d7a87ba8e5bfd
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101894638072" 
+isSender="true" 
+transactionId="z9hg4bkb6e55005ca4fa916454d7a87ba8e5bfd" 
+callId="nist-sip-im-message-callId1" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId1
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=9271
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bKb6e55005ca4fa916454d7a87ba8e5bfd
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:4000" 
+to="127.0.0.1:5071" 
+time="1101894638860" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bkb6e55005ca4fa916454d7a87ba8e5bfd" 
+firstLine="SIP/2.0 200 OK" 
+callId="nist-sip-im-message-callId1" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: nist-sip-im-message-callId1
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=9271
+To: <sip:frei@ethz.ch>;tag=4945
+Max-Forwards: 69
+Record-Route: <sip:127.0.0.1:4000>
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bKb6e55005ca4fa916454d7a87ba8e5bfd
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:4000" 
+to="127.0.0.1:5071" 
+time="1101894639001" 
+isSender="false" 
+statusMessage="normal processing" 
+transactionId="z9hg4bkb6e55005ca4fa916454d7a87ba8e5bfd" 
+firstLine="SIP/2.0 200 OK" 
+callId="nist-sip-im-message-callId1" 
+debugLine="0" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: nist-sip-im-message-callId1
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=9271
+To: <sip:frei@ethz.ch>;tag=4197
+Max-Forwards: 69
+Record-Route: <sip:127.0.0.1:4000>
+Contact: <sip:127.0.0.1:5070;transport=udp>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bKb6e55005ca4fa916454d7a87ba8e5bfd
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 127.0.0.1
+javax.sip.STACK_NAME= nist-sip-im-client
+javax.sip.ROUTER_PATH= ch.ethz.jadabs.jxme.sip.RouterImpl
+javax.sip.OUTBOUND_PROXY= 127.0.0.1:4000/udp
+javax.sip.RETRANSMISSION_FILTER= null
+-->
+<description
+ logDescription="nist-sip-im-client"
+ name="127.0.0.1" />
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907293881" 
+isSender="true" 
+transactionId="z9hg4bk97ff84e78655131943bb468f9b05bd0c" 
+callId="nist-sip-im-message-callId1" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId1
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=3470
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK97ff84e78655131943bb468f9b05bd0c
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907294353" 
+isSender="true" 
+transactionId="z9hg4bk97ff84e78655131943bb468f9b05bd0c" 
+callId="nist-sip-im-message-callId1" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId1
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=3470
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK97ff84e78655131943bb468f9b05bd0c
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907295356" 
+isSender="true" 
+transactionId="z9hg4bk97ff84e78655131943bb468f9b05bd0c" 
+callId="nist-sip-im-message-callId1" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId1
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=3470
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK97ff84e78655131943bb468f9b05bd0c
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907297363" 
+isSender="true" 
+transactionId="z9hg4bk97ff84e78655131943bb468f9b05bd0c" 
+callId="nist-sip-im-message-callId1" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId1
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=3470
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK97ff84e78655131943bb468f9b05bd0c
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907301377" 
+isSender="true" 
+transactionId="z9hg4bk97ff84e78655131943bb468f9b05bd0c" 
+callId="nist-sip-im-message-callId1" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId1
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=3470
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK97ff84e78655131943bb468f9b05bd0c
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907305392" 
+isSender="true" 
+transactionId="z9hg4bk97ff84e78655131943bb468f9b05bd0c" 
+callId="nist-sip-im-message-callId1" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId1
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=3470
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK97ff84e78655131943bb468f9b05bd0c
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907309406" 
+isSender="true" 
+transactionId="z9hg4bk97ff84e78655131943bb468f9b05bd0c" 
+callId="nist-sip-im-message-callId1" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId1
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=3470
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK97ff84e78655131943bb468f9b05bd0c
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907313420" 
+isSender="true" 
+transactionId="z9hg4bk97ff84e78655131943bb468f9b05bd0c" 
+callId="nist-sip-im-message-callId1" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId1
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=3470
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK97ff84e78655131943bb468f9b05bd0c
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907317435" 
+isSender="true" 
+transactionId="z9hg4bk97ff84e78655131943bb468f9b05bd0c" 
+callId="nist-sip-im-message-callId1" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId1
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=3470
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK97ff84e78655131943bb468f9b05bd0c
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907321450" 
+isSender="true" 
+transactionId="z9hg4bk97ff84e78655131943bb468f9b05bd0c" 
+callId="nist-sip-im-message-callId1" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId1
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=3470
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK97ff84e78655131943bb468f9b05bd0c
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907325465" 
+isSender="true" 
+transactionId="z9hg4bk97ff84e78655131943bb468f9b05bd0c" 
+callId="nist-sip-im-message-callId1" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId1
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=3470
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK97ff84e78655131943bb468f9b05bd0c
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907397237" 
+isSender="true" 
+transactionId="z9hg4bk049807cf157ec71749fefa021eab0fa7" 
+callId="nist-sip-im-message-callId2" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId2
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=9948
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK049807cf157ec71749fefa021eab0fa7
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907397732" 
+isSender="true" 
+transactionId="z9hg4bk049807cf157ec71749fefa021eab0fa7" 
+callId="nist-sip-im-message-callId2" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId2
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=9948
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK049807cf157ec71749fefa021eab0fa7
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907398735" 
+isSender="true" 
+transactionId="z9hg4bk049807cf157ec71749fefa021eab0fa7" 
+callId="nist-sip-im-message-callId2" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId2
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=9948
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK049807cf157ec71749fefa021eab0fa7
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907400742" 
+isSender="true" 
+transactionId="z9hg4bk049807cf157ec71749fefa021eab0fa7" 
+callId="nist-sip-im-message-callId2" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId2
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=9948
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK049807cf157ec71749fefa021eab0fa7
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907404758" 
+isSender="true" 
+transactionId="z9hg4bk049807cf157ec71749fefa021eab0fa7" 
+callId="nist-sip-im-message-callId2" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId2
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=9948
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK049807cf157ec71749fefa021eab0fa7
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907408777" 
+isSender="true" 
+transactionId="z9hg4bk049807cf157ec71749fefa021eab0fa7" 
+callId="nist-sip-im-message-callId2" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId2
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=9948
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK049807cf157ec71749fefa021eab0fa7
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907412791" 
+isSender="true" 
+transactionId="z9hg4bk049807cf157ec71749fefa021eab0fa7" 
+callId="nist-sip-im-message-callId2" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId2
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=9948
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK049807cf157ec71749fefa021eab0fa7
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907416806" 
+isSender="true" 
+transactionId="z9hg4bk049807cf157ec71749fefa021eab0fa7" 
+callId="nist-sip-im-message-callId2" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId2
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=9948
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK049807cf157ec71749fefa021eab0fa7
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907420820" 
+isSender="true" 
+transactionId="z9hg4bk049807cf157ec71749fefa021eab0fa7" 
+callId="nist-sip-im-message-callId2" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId2
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=9948
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK049807cf157ec71749fefa021eab0fa7
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907424834" 
+isSender="true" 
+transactionId="z9hg4bk049807cf157ec71749fefa021eab0fa7" 
+callId="nist-sip-im-message-callId2" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId2
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=9948
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK049807cf157ec71749fefa021eab0fa7
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907428849" 
+isSender="true" 
+transactionId="z9hg4bk049807cf157ec71749fefa021eab0fa7" 
+callId="nist-sip-im-message-callId2" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId2
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=9948
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK049807cf157ec71749fefa021eab0fa7
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907490460" 
+isSender="true" 
+transactionId="z9hg4bk99a2f98bfcc84782d80c94b47e3a3b10" 
+callId="nist-sip-im-message-callId3" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId3
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=5004
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK99a2f98bfcc84782d80c94b47e3a3b10
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907490960" 
+isSender="true" 
+transactionId="z9hg4bk99a2f98bfcc84782d80c94b47e3a3b10" 
+callId="nist-sip-im-message-callId3" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId3
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=5004
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK99a2f98bfcc84782d80c94b47e3a3b10
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907491963" 
+isSender="true" 
+transactionId="z9hg4bk99a2f98bfcc84782d80c94b47e3a3b10" 
+callId="nist-sip-im-message-callId3" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId3
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=5004
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK99a2f98bfcc84782d80c94b47e3a3b10
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907493971" 
+isSender="true" 
+transactionId="z9hg4bk99a2f98bfcc84782d80c94b47e3a3b10" 
+callId="nist-sip-im-message-callId3" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId3
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=5004
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK99a2f98bfcc84782d80c94b47e3a3b10
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907497986" 
+isSender="true" 
+transactionId="z9hg4bk99a2f98bfcc84782d80c94b47e3a3b10" 
+callId="nist-sip-im-message-callId3" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId3
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=5004
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK99a2f98bfcc84782d80c94b47e3a3b10
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907502001" 
+isSender="true" 
+transactionId="z9hg4bk99a2f98bfcc84782d80c94b47e3a3b10" 
+callId="nist-sip-im-message-callId3" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId3
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=5004
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK99a2f98bfcc84782d80c94b47e3a3b10
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907506015" 
+isSender="true" 
+transactionId="z9hg4bk99a2f98bfcc84782d80c94b47e3a3b10" 
+callId="nist-sip-im-message-callId3" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId3
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=5004
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK99a2f98bfcc84782d80c94b47e3a3b10
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907510030" 
+isSender="true" 
+transactionId="z9hg4bk99a2f98bfcc84782d80c94b47e3a3b10" 
+callId="nist-sip-im-message-callId3" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId3
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=5004
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK99a2f98bfcc84782d80c94b47e3a3b10
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907514045" 
+isSender="true" 
+transactionId="z9hg4bk99a2f98bfcc84782d80c94b47e3a3b10" 
+callId="nist-sip-im-message-callId3" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId3
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=5004
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK99a2f98bfcc84782d80c94b47e3a3b10
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907518060" 
+isSender="true" 
+transactionId="z9hg4bk99a2f98bfcc84782d80c94b47e3a3b10" 
+callId="nist-sip-im-message-callId3" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId3
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=5004
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK99a2f98bfcc84782d80c94b47e3a3b10
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907522076" 
+isSender="true" 
+transactionId="z9hg4bk99a2f98bfcc84782d80c94b47e3a3b10" 
+callId="nist-sip-im-message-callId3" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId3
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=5004
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK99a2f98bfcc84782d80c94b47e3a3b10
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907522434" 
+isSender="true" 
+transactionId="z9hg4bk77b007b300d8a828d372ddb1205b1d6c" 
+callId="nist-sip-im-message-callId4" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId4
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=5733
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK77b007b300d8a828d372ddb1205b1d6c
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907522935" 
+isSender="true" 
+transactionId="z9hg4bk77b007b300d8a828d372ddb1205b1d6c" 
+callId="nist-sip-im-message-callId4" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId4
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=5733
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK77b007b300d8a828d372ddb1205b1d6c
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907523938" 
+isSender="true" 
+transactionId="z9hg4bk77b007b300d8a828d372ddb1205b1d6c" 
+callId="nist-sip-im-message-callId4" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId4
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=5733
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK77b007b300d8a828d372ddb1205b1d6c
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907525945" 
+isSender="true" 
+transactionId="z9hg4bk77b007b300d8a828d372ddb1205b1d6c" 
+callId="nist-sip-im-message-callId4" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId4
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=5733
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK77b007b300d8a828d372ddb1205b1d6c
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907529960" 
+isSender="true" 
+transactionId="z9hg4bk77b007b300d8a828d372ddb1205b1d6c" 
+callId="nist-sip-im-message-callId4" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId4
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=5733
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK77b007b300d8a828d372ddb1205b1d6c
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907533975" 
+isSender="true" 
+transactionId="z9hg4bk77b007b300d8a828d372ddb1205b1d6c" 
+callId="nist-sip-im-message-callId4" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId4
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=5733
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK77b007b300d8a828d372ddb1205b1d6c
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907537989" 
+isSender="true" 
+transactionId="z9hg4bk77b007b300d8a828d372ddb1205b1d6c" 
+callId="nist-sip-im-message-callId4" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId4
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=5733
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK77b007b300d8a828d372ddb1205b1d6c
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907542005" 
+isSender="true" 
+transactionId="z9hg4bk77b007b300d8a828d372ddb1205b1d6c" 
+callId="nist-sip-im-message-callId4" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId4
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=5733
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK77b007b300d8a828d372ddb1205b1d6c
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907546020" 
+isSender="true" 
+transactionId="z9hg4bk77b007b300d8a828d372ddb1205b1d6c" 
+callId="nist-sip-im-message-callId4" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId4
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=5733
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK77b007b300d8a828d372ddb1205b1d6c
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907550035" 
+isSender="true" 
+transactionId="z9hg4bk77b007b300d8a828d372ddb1205b1d6c" 
+callId="nist-sip-im-message-callId4" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId4
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=5733
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK77b007b300d8a828d372ddb1205b1d6c
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="127.0.0.1:5071" 
+to="127.0.0.1:4000" 
+time="1101907554050" 
+isSender="true" 
+transactionId="z9hg4bk77b007b300d8a828d372ddb1205b1d6c" 
+callId="nist-sip-im-message-callId4" 
+firstLine="MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0" 
+debugLine="0" 
+>
+<![CDATA[MESSAGE sip:127.0.0.1:4000;transport=udp SIP/2.0
+Call-ID: nist-sip-im-message-callId4
+CSeq: 1 MESSAGE
+From: <sip:frei2@ethz.ch>;tag=5733
+To: <sip:frei@ethz.ch>
+Via: SIP/2.0/UDP 127.0.0.1:5071;branch=z9hG4bK77b007b300d8a828d372ddb1205b1d6c
+Max-Forwards: 70
+Content-Type: text/plain;charset=UTF-8
+Contact: <sip:127.0.0.1:5071;transport=udp>
+Content-Length: 11
+
+]]>
+</message>
+

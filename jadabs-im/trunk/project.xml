@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+
+  <pomVersion>3</pomVersion>
+  
+  <!-- The current version of the Maven project descriptor. -->
+  <name>Jadabs SIP, Messenger, SMS</name>
+  <!-- The full name of the project. This value is used when generating JavaDoc titles. -->
+  <id>jadabs-im</id>
+  <!-- The short name of the project. This value is used when naming jars and distribution files. -->
+  <groupId>jadabs-im</groupId>
+  <!-- The short name of the project group. This value is used to group all jars for a project in one directory. -->
+  <artifactId>jadabs-im</artifactId>
+  <!-- The unique id for an artifact produced by the project group, e.g. jboss-boot -->
+  <package>ch.ethz.jadabs_im</package>
+  <currentVersion>0.7.1-SNAPSHOT</currentVersion>
+  <inceptionYear>2004</inceptionYear>
+  <shortDescription>Jadabs SIP, Messenger, SMS</shortDescription>
+  
+  <organization>
+    <name>ETHZ-IKS</name>
+    <url>http://www.iks.inf.ethz.ch</url>
+    <logo>/images/logo_ethz_iks.jpg</logo>
+  </organization>
+  
+  <logo>/images/logo_jadabs.gif</logo>
+  <url>http://jadabs.berlios.de</url>
+  
+  <siteAddress>shell.berlios.de</siteAddress>
+  <siteDirectory>/home/groups/jadabs/htdocs</siteDirectory>
+  
+  <repository>
+    <!--
+        <connection>
+          scm:cvs:ext:afrei@cvs.jadabs.berlios.de:/cvsroot/jadabs:jadabs
+        </connection>
+        -->
+  </repository>
+  
+  <developers>
+    <developer>
+      <name>Andreas Frei</name>
+      <id>andfrei</id>
+      <email>frei_inf.ethz.ch</email>
+      <url>http://www.inf.ethz.ch/~frei/</url>
+      <timezone>+1</timezone>
+      <organization>ETHZ</organization>
+    </developer>
+  </developers>
+  
+  <build>
+    <sourceDirectory>${basedir}/src/</sourceDirectory>
+    <unitTestSourceDirectory>${basedir}/test/src</unitTestSourceDirectory>
+  </build>
+
+</project>
+
