@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="US-ASCII" ?>
-
-   <!ELEMENT BUDDIES (buddy*)>
-
-   <!ELEMENT buddy (sip*)>
-   <!ATTLIST buddy name CDATA #REQUIRED>
-
-   <!ELEMENT sip>
-   <!ATTLIST sip alias CDATA #REQUIRED>
